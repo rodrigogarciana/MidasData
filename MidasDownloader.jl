@@ -18,7 +18,7 @@ try
     ENV["CEDA_USER"];
     ENV["CEDA_PASSWORD"];
 catch
-    println("\nError: Environment Variables CEDA_USER and CEDA_PASSWORD not set")
+    printstyled("\nError: Environment Variables CEDA_USER and CEDA_PASSWORD not set",bold=true,color=:red)
     println("Please set them in terminal with the command 'export CEDA_USER=*****' and 'export CEDA_PASSWORD=*****'")
     println("Alternatively plug in your user and password in the corresponding line of the function in this script.")
     println("To get a CEDA username and password go to 'https://services.ceda.ac.uk/cedasite/register/info/'\n\n")
