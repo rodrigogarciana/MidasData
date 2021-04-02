@@ -22,7 +22,7 @@ catch
     println("Please set them in terminal with the command 'export CEDA_USER=*****' and 'export CEDA_PASSWORD=*****'")
     println("Alternatively plug in your user and password in the corresponding line of the function in this script.")
     println("To get a CEDA username and password go to 'https://services.ceda.ac.uk/cedasite/register/info/'")
-    okflag=false
+    global okflag=false
 end
 
 
