@@ -12,6 +12,7 @@ catch
 end
 
 
+
 #Structure of the tree https://help.ceda.ac.uk/article/4982-midas-open-user-guide
 function downloadMIDAS()
     ### FTP server information
