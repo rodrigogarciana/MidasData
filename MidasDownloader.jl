@@ -17,8 +17,11 @@ end
 function downloadMIDAS()
     ### FTP server information
     ftp_server="ftp.ceda.ac.uk/badc/ukmo-midas-open/data"  # MetOffice Open Datasets
-    user="rgarcia005"
-    password="rodrigo1"
+    user=ENV["CEDA_USER"];
+    password=ENV["CEDA_PASSWORD"];
+
+    #user="rgarcia005"
+    #password="rodrigo1"
 
     ### General dataset structure information
 
