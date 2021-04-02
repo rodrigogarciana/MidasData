@@ -1,7 +1,7 @@
 using Printf
 run(`clear`);
 
-okflag::bool=true
+okflag=true
 
 try
     using FTPClient
