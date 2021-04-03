@@ -1,0 +1,236 @@
+lat	lon	title	description	icon	iconSize	iconOffset
+59.526	-1.63	fair-isle	FAIR ISLE (00003) shetland lat: 59.526, long: -1.63, ele: 57 [active: 2011-2011]	img/radiation.png	24,24	0,-24
+60.139	-1.185	lerwick	LERWICK (00009) shetland lat: 60.139, long: -1.185, ele: 82 [active: 1952-2017]	img/radiation.png	24,24	0,-24
+60.748	-0.856	baltasound-no-2	BALTASOUND NO 2 (00012) shetland lat: 60.748, long: -0.856, ele: 15 [active: 2010-2014]	img/radiation.png	24,24	0,-24
+58.953	-2.901	kirkwall	KIRKWALL (00023) orkney lat: 58.953, long: -2.901, ele: 26 [active: 2001-2017]	img/radiation.png	24,24	0,-24
+58.454	-3.09	wick-airport	WICK AIRPORT (00032) caithness lat: 58.454, long: -3.09, ele: 36 [active: 2011-2011]	img/radiation.png	24,24	0,-24
+58.168	-4.727	cassley	CASSLEY (00040) sutherland lat: 58.168, long: -4.727, ele: 99 [active: 2001-2003]	img/radiation.png	24,24	0,-24
+58.288	-4.442	altnaharra-no-2	ALTNAHARRA NO 2 (00044) sutherland lat: 58.288, long: -4.442, ele: 81 [active: 1993-2017]	img/radiation.png	24,24	0,-24
+58.23	-3.922	kinbrace-hatchery	KINBRACE, HATCHERY (00048) sutherland lat: 58.23, long: -3.922, ele: 103 [active: 1999-2017]	img/radiation.png	24,24	0,-24
+57.859	-5.633	aultbea-no-2	AULTBEA NO 2 (00052) ross-and-cromarty lat: 57.859, long: -5.633, ele: 11 [active: 2006-2011]	img/radiation.png	24,24	0,-24
+58.213	-6.319	stornoway-airport	STORNOWAY AIRPORT (00054) western-isles lat: 58.213, long: -6.319, ele: 15 [active: 1982-2017]	img/radiation.png	24,24	0,-24
+57.613	-5.306	kinlochewe	KINLOCHEWE (00066) ross-and-cromarty lat: 57.613, long: -5.306, ele: 25 [active: 2005-2017]	img/radiation.png	24,24	0,-24
+57.725	-4.895	loch-glascarnoch	LOCH GLASCARNOCH (00067) ross-and-cromarty lat: 57.725, long: -4.895, ele: 269 [active: 1992-2017]	img/radiation.png	24,24	0,-24
+57.819	-3.967	tain-range	TAIN RANGE (00079) ross-and-cromarty lat: 57.819, long: -3.967, ele: 4 [active: 1997-2017]	img/radiation.png	24,24	0,-24
+56.822	-4.969	aonach-mor	AONACH MOR (00103) inverness-shire lat: 56.822, long: -4.969, ele: 1130 [active: 2011-2011]	img/radiation.png	24,24	0,-24
+56.867	-4.708	tulloch-bridge	TULLOCH BRIDGE (00105) inverness-shire lat: 56.867, long: -4.708, ele: 249 [active: 1993-2017]	img/radiation.png	24,24	0,-24
+57.206	-3.828	aviemore	AVIEMORE (00113) inverness-shire lat: 57.206, long: -3.828, ele: 228 [active: 1983-2017]	img/radiation.png	24,24	0,-24
+57.116	-3.643	cairngorm-summit	CAIRNGORM SUMMIT (00117) inverness-shire lat: 57.116, long: -3.643, ele: 1237 [active: 2011-2011]	img/radiation.png	24,24	0,-24
+57.645	-3.563	kinloss	KINLOSS (00132) moray-in-grampian-region lat: 57.645, long: -3.563, ele: 5 [active: 2003-2017]	img/radiation.png	24,24	0,-24
+57.711	-3.323	lossiemouth	LOSSIEMOUTH (00137) moray-in-grampian-region lat: 57.711, long: -3.323, ele: 7 [active: 2011-2011]	img/radiation.png	24,24	0,-24
+56.879	-3.421	cairnwell	CAIRNWELL (00145) aberdeenshire lat: 56.879, long: -3.421, ele: 928 [active: 2011-2011]	img/radiation.png	24,24	0,-24
+57.076	-2.841	aboyne-no-2	ABOYNE NO 2 (00150) aberdeenshire lat: 57.076, long: -2.841, ele: 140 [active: 1992-2011]	img/radiation.png	24,24	0,-24
+57.187	-2.215	craibstone	CRAIBSTONE (00160) aberdeenshire lat: 57.187, long: -2.215, ele: 102 [active: 2011-2011]	img/radiation.png	24,24	0,-24
+57.205	-2.205	dyce	DYCE (00161) aberdeenshire lat: 57.205, long: -2.205, ele: 65 [active: 2006-2017]	img/radiation.png	24,24	0,-24
+57.128	-2.14	aberdeen-mannofield-resr	ABERDEEN, MANNOFIELD RESR (00163) aberdeenshire lat: 57.128, long: -2.14, ele: 52 [active: 1967-2006]	img/radiation.png	24,24	0,-24
+56.852	-2.266	inverbervie-no-2	INVERBERVIE NO 2 (00177) kincardineshire lat: 56.852, long: -2.266, ele: 134 [active: 1992-2017]	img/radiation.png	24,24	0,-24
+56.457	-3.073	mylnefield	MYLNEFIELD (00181) angus lat: 56.457, long: -3.073, ele: 31 [active: 1973-2005]	img/radiation.png	24,24	0,-24
+56.326	-3.729	strathallan-airfield	STRATHALLAN AIRFIELD (00212) perthshire-in-tayside-region lat: 56.326, long: -3.729, ele: 35 [active: 1994-2017]	img/radiation.png	24,24	0,-24
+56.377	-2.862	leuchars	LEUCHARS (00235) fife lat: 56.377, long: -2.862, ele: 10 [active: 2003-2017]	img/radiation.png	24,24	0,-24
+56.438	-2.86	shanwell	SHANWELL (00236) fife lat: 56.438, long: -2.86, ele: 4 [active: 1981-1992]	img/radiation.png	24,24	0,-24
+55.966	-3.207	edinburgh-royal-botanic-garden-no-2	EDINBURGH, ROYAL BOTANIC GARDEN NO 2 (00253) midlothian-in-lothian-region lat: 55.966, long: -3.207, ele: 23 [active: 2011-2011]	img/radiation.png	24,24	0,-24
+55.709	-2.385	charterhall	CHARTERHALL (00268) berwickshire lat: 55.709, long: -2.385, ele: 112 [active: 1994-2017]	img/radiation.png	24,24	0,-24
+54.977	-1.598	newcastle-weather-centre	NEWCASTLE WEATHER CENTRE (00307) tyne-and-wear lat: 54.977, long: -1.598, ele: 52 [active: 2000-2001]	img/radiation.png	24,24	0,-24
+55.421	-1.601	boulmer	BOULMER (00315) northumberland lat: 55.421, long: -1.601, ele: 23 [active: 2001-2017]	img/radiation.png	24,24	0,-24
+54.768	-1.586	durham	DURHAM (00326) durham lat: 54.768, long: -1.586, ele: 102 [active: 1999-2017]	img/radiation.png	24,24	0,-24
+54.904	-1.395	sunderland-university	SUNDERLAND UNIVERSITY (00332) tyne-and-wear lat: 54.904, long: -1.395, ele: 70 [active: 1991-2003]	img/radiation.png	24,24	0,-24
+54.135	-1.415	dishforth-airfield	DISHFORTH AIRFIELD (00342) north-yorkshire lat: 54.135, long: -1.415, ele: 33 [active: 2011-2011]	img/radiation.png	24,24	0,-24
+54.045	-1.251	linton-on-ouse	LINTON ON OUSE (00346) north-yorkshire lat: 54.045, long: -1.251, ele: 14 [active: 2009-2011]	img/radiation.png	24,24	0,-24
+54.359	-0.672	fylingdales	FYLINGDALES (00358) north-yorkshire lat: 54.359, long: -0.672, ele: 262 [active: 2011-2011]	img/radiation.png	24,24	0,-24
+53.875	-0.442	leconfield	LECONFIELD (00370) humberside lat: 53.875, long: -0.442, ele: 7 [active: 1993-2017]	img/radiation.png	24,24	0,-24
+54.094	-0.176	bridlington-mrsc	BRIDLINGTON MRSC (00373) humberside lat: 54.094, long: -0.176, ele: 15 [active: 2010-2013]	img/radiation.png	24,24	0,-24
+53.307	-0.548	scampton	SCAMPTON (00381) lincolnshire lat: 53.307, long: -0.548, ele: 57 [active: 2011-2011]	img/radiation.png	24,24	0,-24
+53.175	-0.523	waddington	WADDINGTON (00384) lincolnshire lat: 53.175, long: -0.523, ele: 68 [active: 2002-2017]	img/radiation.png	24,24	0,-24
+53.031	-0.504	cranwell	CRANWELL (00386) lincolnshire lat: 53.031, long: -0.504, ele: 63 [active: 2011-2011]	img/radiation.png	24,24	0,-24
+53.094	-0.173	coningsby	CONINGSBY (00393) lincolnshire lat: 53.094, long: -0.173, ele: 6 [active: 2011-2011]	img/radiation.png	24,24	0,-24
+52.873	0.139	holbeach-no-2	HOLBEACH NO 2 (00395) lincolnshire lat: 52.873, long: 0.139, ele: 3 [active: 1993-2017]	img/radiation.png	24,24	0,-24
+53.55	-0.03	cleethorpes-haverstoe-park	CLEETHORPES, HAVERSTOE PARK (00399) humberside lat: 53.55, long: -0.03, ele: 7 [active: 2003-2004]	img/radiation.png	24,24	0,-24
+53.475	0.153	donna-nook-no-2	DONNA NOOK NO 2 (00405) lincolnshire lat: 53.475, long: 0.153, ele: 8 [active: 2011-2011]	img/radiation.png	24,24	0,-24
+52.651	0.566	marham	MARHAM (00409) norfolk lat: 52.651, long: 0.566, ele: 21 [active: 2007-2011]	img/radiation.png	24,24	0,-24
+52.459	0.671	santon-downham	SANTON DOWNHAM (00413) suffolk lat: 52.459, long: 0.671, ele: 6 [active: 2011-2011]	img/radiation.png	24,24	0,-24
+52.949	1.122	weybourne	WEYBOURNE (00421) norfolk lat: 52.949, long: 1.122, ele: 21 [active: 2011-2011]	img/radiation.png	24,24	0,-24
+52.757	1.351	coltishall	COLTISHALL (00429) norfolk lat: 52.757, long: 1.351, ele: 17 [active: 2001-2006]	img/radiation.png	24,24	0,-24
+52.686	1.687	hemsby	HEMSBY (00433) norfolk lat: 52.686, long: 1.687, ele: 13 [active: 1981-2001]	img/radiation.png	24,24	0,-24
+52.261	0.566	brooms-barn	BROOMS BARN (00435) suffolk lat: 52.261, long: 0.566, ele: 75 [active: 1980-2011]	img/radiation.png	24,24	0,-24
+52.124	0.957	wattisham	WATTISHAM (00440) suffolk lat: 52.124, long: 0.957, ele: 89 [active: 2001-2017]	img/radiation.png	24,24	0,-24
+51.936	0.873	great-horkesley-no-2	GREAT HORKESLEY NO 2 (00447) essex lat: 51.936, long: 0.873, ele: 50 [active: 1978-2000]	img/radiation.png	24,24	0,-24
+52.245	0.1	cambridge-niab	CAMBRIDGE, NIAB (00455) cambridgeshire lat: 52.245, long: 0.1, ele: 26 [active: 1957-2011]	img/radiation.png	24,24	0,-24
+52.402	-0.237	monks-wood	MONKS WOOD (00456) cambridgeshire lat: 52.402, long: -0.237, ele: 41 [active: 2000-2017]	img/radiation.png	24,24	0,-24
+52.014	-0.596	woburn	WOBURN (00458) bedfordshire lat: 52.014, long: -0.596, ele: 89 [active: 2000-2017]	img/radiation.png	24,24	0,-24
+52.227	-0.465	bedford	BEDFORD (00461) bedfordshire lat: 52.227, long: -0.465, ele: 85 [active: 1993-2017]	img/radiation.png	24,24	0,-24
+52.104	-0.423	cardington	CARDINGTON (00465) bedfordshire lat: 52.104, long: -0.423, ele: 29 [active: 1972-1981]	img/radiation.png	24,24	0,-24
+51.807	-0.36	rothamsted	ROTHAMSTED (00471) hertfordshire lat: 51.807, long: -0.36, ele: 128 [active: 1968-2017]	img/radiation.png	24,24	0,-24
+51.734	0.429	writtle	WRITTLE (00487) essex lat: 51.734, long: 0.429, ele: 32 [active: 2011-2011]	img/radiation.png	24,24	0,-24
+51.555	0.827	shoeburyness-landwick	SHOEBURYNESS, LANDWICK (00498) essex lat: 51.555, long: 0.827, ele: 2 [active: 2011-2011]	img/radiation.png	24,24	0,-24
+53.811	-1.867	bingley-no-2	BINGLEY, NO 2 (00513) west-yorkshire lat: 53.811, long: -1.867, ele: 262 [active: 2001-2011]	img/radiation.png	24,24	0,-24
+53.814	-1.774	bradford	BRADFORD (00516) west-yorkshire lat: 53.814, long: -1.774, ele: 134 [active: 2011-2011]	img/radiation.png	24,24	0,-24
+53.801	-1.561	leeds-weather-centre	LEEDS WEATHER CENTRE (00523) west-yorkshire lat: 53.801, long: -1.561, ele: 64 [active: 1996-2003]	img/radiation.png	24,24	0,-24
+53.836	-1.199	church-fenton	CHURCH FENTON (00533) north-yorkshire lat: 53.836, long: -1.199, ele: 8 [active: 2001-2013]	img/radiation.png	24,24	0,-24
+53.869	-1.319	bramham	BRAMHAM (00534) west-yorkshire lat: 53.869, long: -1.319, ele: 54 [active: 2001-2017]	img/radiation.png	24,24	0,-24
+53.828	-1.148	cawood	CAWOOD (00535) north-yorkshire lat: 53.828, long: -1.148, ele: 6 [active: 1963-2006]	img/radiation.png	24,24	0,-24
+52.737	-1.641	coton-in-the-elms	COTON-IN-THE-ELMS (00542) derbyshire lat: 52.737, long: -1.641, ele: 85 [active: 2011-2011]	img/radiation.png	24,24	0,-24
+52.836	-1.251	sutton-bonington	SUTTON BONINGTON (00554) nottinghamshire lat: 52.836, long: -1.251, ele: 43 [active: 1963-2017]	img/radiation.png	24,24	0,-24
+53.006	-1.251	nottingham-watnall	NOTTINGHAM, WATNALL (00556) nottinghamshire lat: 53.006, long: -1.251, ele: 117 [active: 2000-2017]	img/radiation.png	24,24	0,-24
+53.483	-1.008	finningley	FINNINGLEY (00562) south-yorkshire lat: 53.483, long: -1.008, ele: 10 [active: 1982-1995]	img/radiation.png	24,24	0,-24
+52.727	-0.656	cottesmore	COTTESMORE (00576) leicestershire lat: 52.727, long: -0.656, ele: 136 [active: 2011-2011]	img/radiation.png	24,24	0,-24
+52.612	-0.468	wittering	WITTERING (00583) cambridgeshire lat: 52.612, long: -0.468, ele: 74 [active: 2001-2017]	img/radiation.png	24,24	0,-24
+52.454	-1.924	winterbourne-university-of-birmingham	WINTERBOURNE, UNIVERSITY OF BIRMINGHAM (00586) west-midlands lat: 52.454, long: -1.924, ele: 130 [active: 2001-2012]	img/radiation.png	24,24	0,-24
+52.359	-1.331	church-lawford	CHURCH LAWFORD (00595) warwickshire lat: 52.359, long: -1.331, ele: 107 [active: 1995-2017]	img/radiation.png	24,24	0,-24
+52.206	-1.605	wellesbourne	WELLESBOURNE (00596) warwickshire lat: 52.206, long: -1.605, ele: 47 [active: 2011-2011]	img/radiation.png	24,24	0,-24
+51.758	-1.578	brize-norton	BRIZE NORTON (00605) oxfordshire lat: 51.758, long: -1.578, ele: 82 [active: 2011-2011]	img/radiation.png	24,24	0,-24
+51.998	-1.406	south-newington	SOUTH NEWINGTON (00607) oxfordshire lat: 51.998, long: -1.406, ele: 105 [active: 2011-2011]	img/radiation.png	24,24	0,-24
+51.62	-1.099	benson	BENSON (00613) oxfordshire lat: 51.62, long: -1.099, ele: 57 [active: 2011-2011]	img/radiation.png	24,24	0,-24
+52.999	-2.27	keele	KEELE (00622) staffordshire lat: 52.999, long: -2.27, ele: 179 [active: 2011-2011]	img/radiation.png	24,24	0,-24
+52.795	-2.665	shawbury	SHAWBURY (00643) shropshire lat: 52.795, long: -2.665, ele: 72 [active: 2001-2017]	img/radiation.png	24,24	0,-24
+52.778	-2.428	newport-salop	NEWPORT (SALOP) (00651) shropshire lat: 52.778, long: -2.428, ele: 66 [active: 2011-2011]	img/radiation.png	24,24	0,-24
+52.148	-2.041	pershore	PERSHORE (00657) hereford-and-worcester lat: 52.148, long: -2.041, ele: 35 [active: 1993-2011]	img/radiation.png	24,24	0,-24
+52.243	-2.886	shobdon-airfield	SHOBDON AIRFIELD (00669) hereford-and-worcester lat: 52.243, long: -2.886, ele: 99 [active: 1997-2017]	img/radiation.png	24,24	0,-24
+51.911	-2.586	ross-on-wye	ROSS-ON-WYE (00671) hereford-and-worcester lat: 51.911, long: -2.586, ele: 67 [active: 2018-2017]	img/radiation.png	24,24	0,-24
+52.125	-2.638	preston-wynne	PRESTON WYNNE (00673) hereford-and-worcester lat: 52.125, long: -2.638, ele: 84 [active: 1987-2008]	img/radiation.png	24,24	0,-24
+51.453	-2.6	bristol-weather-centre	BRISTOL WEATHER CENTRE (00675) avon lat: 51.453, long: -2.6, ele: 42 [active: 2000-2001]	img/radiation.png	24,24	0,-24
+51.522	-2.577	filton	FILTON (00676) avon lat: 51.522, long: -2.577, ele: 59 [active: 2001-2017]	img/radiation.png	24,24	0,-24
+51.861	-1.693	little-rissington	LITTLE RISSINGTON (00692) gloucestershire lat: 51.861, long: -1.693, ele: 210 [active: 1997-2017]	img/radiation.png	24,24	0,-24
+51.479	-0.451	heathrow	HEATHROW (00708) greater-london lat: 51.479, long: -0.451, ele: 25 [active: 2005-2017]	img/radiation.png	24,24	0,-24
+51.549	-0.417	northolt	NORTHOLT (00709) greater-london lat: 51.549, long: -0.417, ele: 33 [active: 2011-2011]	img/radiation.png	24,24	0,-24
+51.311	-0.476	wisley	WISLEY (00719) surrey lat: 51.311, long: -0.476, ele: 38 [active: 2000-2017]	img/radiation.png	24,24	0,-24
+51.468	-0.316	kew	KEW (00721) greater-london lat: 51.468, long: -0.316, ele: 5 [active: 1947-1980]	img/radiation.png	24,24	0,-24
+51.482	-0.294	kew-gardens	KEW GARDENS (00723) greater-london lat: 51.482, long: -0.294, ele: 6 [active: 2007-2017]	img/radiation.png	24,24	0,-24
+51.083	-0.211	crawley	CRAWLEY (00724) west-sussex lat: 51.083, long: -0.211, ele: 144 [active: 1980-1992]	img/radiation.png	24,24	0,-24
+51.304	-0.092	kenley-airfield	KENLEY AIRFIELD (00726) greater-london lat: 51.304, long: -0.092, ele: 170 [active: 1993-2017]	img/radiation.png	24,24	0,-24
+51.134	1.343	langdon-bay	LANGDON BAY (00743) kent lat: 51.134, long: 1.343, ele: 117 [active: 2011-2011]	img/radiation.png	24,24	0,-24
+51.288	0.448	east-malling	EAST MALLING (00744) kent lat: 51.288, long: 0.448, ele: 33 [active: 1963-2017]	img/radiation.png	24,24	0,-24
+51.358	1.135	herne-bay-no-2	HERNE BAY NO 2 (00765) kent lat: 51.358, long: 1.135, ele: 40 [active: 2000-2006]	img/radiation.png	24,24	0,-24
+51.347	1.335	manston	MANSTON (00775) kent lat: 51.347, long: 1.335, ele: 49 [active: 2000-2017]	img/radiation.png	24,24	0,-24
+50.815	-0.922	thorney-island	THORNEY ISLAND (00779) west-sussex lat: 50.815, long: -0.922, ele: 4 [active: 1992-2017]	img/radiation.png	24,24	0,-24
+50.836	-0.293	shoreham-airport	SHOREHAM AIRPORT (00795) west-sussex lat: 50.836, long: -0.293, ele: 2 [active: 2011-2011]	img/radiation.png	24,24	0,-24
+50.891	0.317	herstmonceux-west-end	HERSTMONCEUX, WEST END (00811) east-sussex lat: 50.891, long: 0.317, ele: 52 [active: 2001-2017]	img/radiation.png	24,24	0,-24
+51.603	-1.113	wallingford	WALLINGFORD (00825) oxfordshire lat: 51.603, long: -1.113, ele: 47 [active: 1971-2001]	img/radiation.png	24,24	0,-24
+51.539	-0.815	hurley-research-institute	HURLEY, RESEARCH INSTITUTE (00836) berkshire lat: 51.539, long: -0.815, ele: 43 [active: 1969-1972]	img/radiation.png	24,24	0,-24
+51.39	-0.786	bracknell-beaufort-park	BRACKNELL, BEAUFORT PARK (00838) berkshire lat: 51.39, long: -0.786, ele: 74 [active: 1965-2003]	img/radiation.png	24,24	0,-24
+50.779	-1.836	hurn	HURN (00842) dorset lat: 50.779, long: -1.836, ele: 10 [active: 2004-2017]	img/radiation.png	24,24	0,-24
+50.742	-1.575	everton	EVERTON (00846) hampshire lat: 50.742, long: -1.575, ele: 16 [active: 1959-2003]	img/radiation.png	24,24	0,-24
+51.15	-1.57	middle-wallop	MIDDLE WALLOP (00847) hampshire lat: 51.15, long: -1.57, ele: 90 [active: 2001-2011]	img/radiation.png	24,24	0,-24
+50.808	-1.211	solent	SOLENT (00858) hampshire lat: 50.808, long: -1.211, ele: 9 [active: 2011-2011]	img/radiation.png	24,24	0,-24
+51.239	-0.945	odiham	ODIHAM (00862) hampshire lat: 51.239, long: -0.945, ele: 118 [active: 2000-2017]	img/radiation.png	24,24	0,-24
+51.178	-0.85	alice-holt-lodge	ALICE HOLT LODGE (00868) hampshire lat: 51.178, long: -0.85, ele: 115 [active: 2011-2011]	img/radiation.png	24,24	0,-24
+51.28	-0.773	south-farnborough	SOUTH FARNBOROUGH (00869) hampshire lat: 51.28, long: -0.773, ele: 65 [active: 2007-2011]	img/radiation.png	24,24	0,-24
+50.576	-1.297	wight-st-catherines-point	WIGHT: ST CATHERINES POINT (00876) isle-of-wight lat: 50.576, long: -1.297, ele: 20 [active: 2011-2011]	img/radiation.png	24,24	0,-24
+51.503	-1.992	lyneham	LYNEHAM (00886) wiltshire lat: 51.503, long: -1.992, ele: 145 [active: 2010-2017]	img/radiation.png	24,24	0,-24
+51.202	-1.806	larkhill	LARKHILL (00888) wiltshire lat: 51.202, long: -1.806, ele: 132 [active: 2011-2011]	img/radiation.png	24,24	0,-24
+51.162	-1.755	boscombe-down	BOSCOMBE DOWN (00889) wiltshire lat: 51.162, long: -1.755, ele: 126 [active: 2011-2011]	img/radiation.png	24,24	0,-24
+55.441	-5.697	machrihanish	MACHRIHANISH (00908) argyll-in-strathclyde-region lat: 55.441, long: -5.697, ele: 10 [active: 2011-2011]	img/radiation.png	24,24	0,-24
+56.45	-5.44	dunstaffnage	DUNSTAFFNAGE (00918) argyll-in-strathclyde-region lat: 56.45, long: -5.44, ele: 3 [active: 1970-2017]	img/radiation.png	24,24	0,-24
+55.861	-3.875	salsburgh	SALSBURGH (00982) lanarkshire lat: 55.861, long: -3.875, ele: 277 [active: 2011-2011]	img/radiation.png	24,24	0,-24
+55.627	-3.736	drumalbin	DRUMALBIN (00987) lanarkshire lat: 55.627, long: -3.736, ele: 245 [active: 1991-2011]	img/radiation.png	24,24	0,-24
+55.477	-4.565	auchincruive	AUCHINCRUIVE (01005) ayrshire lat: 55.477, long: -4.565, ele: 48 [active: 1975-2017]	img/radiation.png	24,24	0,-24
+55.515	-4.585	prestwick-gannet	PRESTWICK, GANNET (01007) ayrshire lat: 55.515, long: -4.585, ele: 27 [active: 2001-2017]	img/radiation.png	24,24	0,-24
+55.312	-3.207	eskdalemuir	ESKDALEMUIR (01023) dumfriesshire lat: 55.312, long: -3.207, ele: 236 [active: 1956-2017]	img/radiation.png	24,24	0,-24
+54.803	-4.008	dundrennan	DUNDRENNAN (01033) kirkcudbrightshire lat: 54.803, long: -4.008, ele: 113 [active: 1997-2017]	img/radiation.png	24,24	0,-24
+54.926	-3.95	threave	THREAVE (01035) kirkcudbrightshire lat: 54.926, long: -3.95, ele: 73 [active: 2007-2017]	img/radiation.png	24,24	0,-24
+54.859	-4.935	west-freugh	WEST FREUGH (01039) wigtownshire lat: 54.859, long: -4.935, ele: 11 [active: 1993-2011]	img/radiation.png	24,24	0,-24
+54.518	-3.615	st-bees-head-no-2	ST BEES HEAD NO 2 (01055) cumbria lat: 54.518, long: -3.615, ele: 124 [active: 2011-2011]	img/radiation.png	24,24	0,-24
+54.614	-3.157	keswick	KESWICK (01060) cumbria lat: 54.614, long: -3.157, ele: 81 [active: 2002-2011]	img/radiation.png	24,24	0,-24
+54.934	-2.964	carlisle	CARLISLE (01070) cumbria lat: 54.934, long: -2.964, ele: 28 [active: 2011-2011]	img/radiation.png	24,24	0,-24
+54.67	-2.788	newton-rigg	NEWTON RIGG (01073) cumbria lat: 54.67, long: -2.788, ele: 169 [active: 2011-2011]	img/radiation.png	24,24	0,-24
+54.572	-2.413	warcop-range	WARCOP RANGE (01074) cumbria lat: 54.572, long: -2.413, ele: 227 [active: 2011-2011]	img/radiation.png	24,24	0,-24
+55.05	-2.554	spadeadam-no-2	SPADEADAM NO 2 (01076) cumbria lat: 55.05, long: -2.554, ele: 285 [active: 2011-2011]	img/radiation.png	24,24	0,-24
+54.125	-3.258	walney-island	WALNEY ISLAND (01078) cumbria lat: 54.125, long: -3.258, ele: 15 [active: 2011-2011]	img/radiation.png	24,24	0,-24
+54.502	-2.685	shap	SHAP (01083) cumbria lat: 54.502, long: -2.685, ele: 252 [active: 1997-2017]	img/radiation.png	24,24	0,-24
+54.684	-2.451	great-dun-fell-no-2	GREAT DUN FELL NO 2 (01085) cumbria lat: 54.684, long: -2.451, ele: 847 [active: 2011-2011]	img/radiation.png	24,24	0,-24
+54.69	-2.377	moor-house	MOOR HOUSE (01086) cumbria lat: 54.69, long: -2.377, ele: 556 [active: 1977-1980]	img/radiation.png	24,24	0,-24
+53.775	-3.038	blackpool-squires-gate	BLACKPOOL, SQUIRES GATE (01090) lancashire lat: 53.775, long: -3.038, ele: 10 [active: 2011-2011]	img/radiation.png	24,24	0,-24
+53.55	-2.916	aughton	AUGHTON (01096) lancashire lat: 53.55, long: -2.916, ele: 54 [active: 1981-1996]	img/radiation.png	24,24	0,-24
+54.014	-2.775	hazelrigg	HAZELRIGG (01105) lancashire lat: 54.014, long: -2.775, ele: 95 [active: 1982-2002]	img/radiation.png	24,24	0,-24
+53.854	-2.767	myerscough	MYERSCOUGH (01112) lancashire lat: 53.854, long: -2.767, ele: 14 [active: 2011-2011]	img/radiation.png	24,24	0,-24
+53.626	-2.516	winter-hill	WINTER HILL (01115) lancashire lat: 53.626, long: -2.516, ele: 440 [active: 2002-2011]	img/radiation.png	24,24	0,-24
+53.609	-2.179	rochdale	ROCHDALE (01125) greater-manchester lat: 53.609, long: -2.179, ele: 110 [active: 2007-2011]	img/radiation.png	24,24	0,-24
+53.086	-2.526	nantwich-reaseheath-hall	NANTWICH, REASEHEATH HALL (01132) cheshire lat: 53.086, long: -2.526, ele: 40 [active: 2011-2011]	img/radiation.png	24,24	0,-24
+53.356	-2.281	ringway	RINGWAY (01135) greater-manchester lat: 53.356, long: -2.281, ele: 69 [active: 2003-2003]	img/radiation.png	24,24	0,-24
+53.259	-3.509	rhyl-no-2	RHYL NO 2 (01137) clwyd lat: 53.259, long: -3.509, ele: 77 [active: 2011-2011]	img/radiation.png	24,24	0,-24
+53.175	-2.986	hawarden-airport	HAWARDEN AIRPORT (01144) clwyd lat: 53.175, long: -2.986, ele: 11 [active: 1997-2017]	img/radiation.png	24,24	0,-24
+53.253	-4.536	valley	VALLEY (01145) gwynedd lat: 53.253, long: -4.536, ele: 10 [active: 2001-2017]	img/radiation.png	24,24	0,-24
+52.686	1.687	hemsby-trial	HEMSBY TRIAL (25728) norfolk lat: 52.686, long: 1.687, ele: 14 [active: 2000-2001]	img/radiation.png	24,24	0,-24
+52.789	-4.741	aberdaron	ABERDARON (01161) gwynedd lat: 52.789, long: -4.741, ele: 95 [active: 1997-2017]	img/radiation.png	24,24	0,-24
+53.094	-3.941	capel-curig-no-3	CAPEL CURIG NO 3 (01171) gwynedd lat: 53.094, long: -3.941, ele: 216 [active: 1995-2011]	img/radiation.png	24,24	0,-24
+52.908	-3.584	bala	BALA (01180) gwynedd lat: 52.908, long: -3.584, ele: 163 [active: 2011-2011]	img/radiation.png	24,24	0,-24
+52.757	-3.465	lake-vyrnwy-no-2	LAKE VYRNWY NO 2 (01190) powys-north lat: 52.757, long: -3.465, ele: 360 [active: 1997-2017]	img/radiation.png	24,24	0,-24
+52.14	-4.571	aberporth	ABERPORTH (01198) dyfed lat: 52.14, long: -4.571, ele: 133 [active: 1957-2017]	img/radiation.png	24,24	0,-24
+52.432	-4.02	gogerddan	GOGERDDAN (01205) dyfed lat: 52.432, long: -4.02, ele: 31 [active: 1984-2011]	img/radiation.png	24,24	0,-24
+52.344	-3.948	trawsgoed	TRAWSGOED (01209) dyfed lat: 52.344, long: -3.948, ele: 63 [active: 2011-2011]	img/radiation.png	24,24	0,-24
+51.709	-5.053	milford-haven-conservancy-board	MILFORD HAVEN CONSERVANCY BOARD (01215) dyfed lat: 51.709, long: -5.053, ele: 44 [active: 2011-2011]	img/radiation.png	24,24	0,-24
+51.989	-4.679	whitechurch	WHITECHURCH (01223) dyfed lat: 51.989, long: -4.679, ele: 129 [active: 2011-2011]	img/radiation.png	24,24	0,-24
+51.714	-4.367	pembrey-sands	PEMBREY SANDS (01226) dyfed lat: 51.714, long: -4.367, ele: 3 [active: 2011-2011]	img/radiation.png	24,24	0,-24
+52.216	-3.452	llysdinam	LLYSDINAM (01238) powys-south lat: 52.216, long: -3.452, ele: 196 [active: 2011-2011]	img/radiation.png	24,24	0,-24
+51.566	-3.982	mumbles-head	MUMBLES HEAD (01255) west-glamorgan lat: 51.566, long: -3.982, ele: 43 [active: 2011-2011]	img/radiation.png	24,24	0,-24
+51.488	-3.189	cardiff-bute-park	CARDIFF, BUTE PARK (01272) south-glamorgan lat: 51.488, long: -3.189, ele: 9 [active: 2011-2011]	img/radiation.png	24,24	0,-24
+51.087	-3.609	liscombe	LISCOMBE (01285) somerset lat: 51.087, long: -3.609, ele: 348 [active: 1993-2017]	img/radiation.png	24,24	0,-24
+51.006	-2.643	yeovilton	YEOVILTON (01302) somerset lat: 51.006, long: -2.643, ele: 20 [active: 2003-2017]	img/radiation.png	24,24	0,-24
+50.522	-2.456	isle-of-portland	ISLE OF PORTLAND (01319) dorset lat: 50.522, long: -2.456, ele: 52 [active: 2011-2011]	img/radiation.png	24,24	0,-24
+50.355	-4.121	plymouth-mountbatten	PLYMOUTH, MOUNTBATTEN (01336) devon lat: 50.355, long: -4.121, ele: 50 [active: 2011-2011]	img/radiation.png	24,24	0,-24
+51.089	-4.149	chivenor	CHIVENOR (01346) devon lat: 51.089, long: -4.149, ele: 6 [active: 2011-2011]	img/radiation.png	24,24	0,-24
+50.769	-3.904	north-wyke	NORTH WYKE (01352) devon lat: 50.769, long: -3.904, ele: 177 [active: 2000-2017]	img/radiation.png	24,24	0,-24
+50.399	-3.484	berry-head	BERRY HEAD (01367) devon lat: 50.399, long: -3.484, ele: 58 [active: 2011-2011]	img/radiation.png	24,24	0,-24
+50.731	-3.417	exeter-airport	EXETER AIRPORT (01378) devon lat: 50.731, long: -3.417, ele: 27 [active: 2009-2016]	img/radiation.png	24,24	0,-24
+50.86	-3.24	dunkeswell-aerodrome	DUNKESWELL AERODROME (01383) devon lat: 50.86, long: -3.24, ele: 252 [active: 2011-2011]	img/radiation.png	24,24	0,-24
+49.915	-6.296	scilly-st-marys-airport	SCILLY: ST MARYS AIRPORT (01386) isles-of-scilly lat: 49.915, long: -6.296, ele: 31 [active: 2011-2011]	img/radiation.png	24,24	0,-24
+50.084	-5.257	culdrose	CULDROSE (01393) cornwall lat: 50.084, long: -5.257, ele: 76 [active: 2002-2011]	img/radiation.png	24,24	0,-24
+50.218	-5.328	camborne	CAMBORNE (01395) cornwall lat: 50.218, long: -5.328, ele: 87 [active: 1981-2017]	img/radiation.png	24,24	0,-24
+50.502	-4.667	cardinham-bodmin	CARDINHAM, BODMIN (01415) cornwall lat: 50.502, long: -4.667, ele: 200 [active: 1995-2017]	img/radiation.png	24,24	0,-24
+55.057	-7.008	ballykelly	BALLYKELLY (01429) londonderry lat: 55.057, long: -7.008, ele: 4 [active: 2011-2011]	img/radiation.png	24,24	0,-24
+54.865	-6.458	portglenone	PORTGLENONE (01448) antrim lat: 54.865, long: -6.458, ele: 64 [active: 2011-2011]	img/radiation.png	24,24	0,-24
+54.664	-6.225	aldergrove	ALDERGROVE (01450) antrim lat: 54.664, long: -6.225, ele: 63 [active: 1968-2017]	img/radiation.png	24,24	0,-24
+55.181	-6.154	ballypatrick-forest	BALLYPATRICK FOREST (01467) antrim lat: 55.181, long: -6.154, ele: 156 [active: 1997-2017]	img/radiation.png	24,24	0,-24
+52.608	0.403	denver-complex	DENVER COMPLEX (16630) norfolk lat: 52.608, long: 0.403, ele: 3 [active: 1980-2001]	img/radiation.png	24,24	0,-24
+54.077	-6.184	killowen	KILLOWEN (01488) down lat: 54.077, long: -6.184, ele: 4 [active: 2011-2011]	img/radiation.png	24,24	0,-24
+54.485	-6.098	hillsborough-met-office	HILLSBOROUGH MET OFFICE (01490) down lat: 54.485, long: -6.098, ele: 38 [active: 1998-2003]	img/radiation.png	24,24	0,-24
+54.245	-5.832	murlough	MURLOUGH (01502) down lat: 54.245, long: -5.832, ele: 12 [active: 2011-2011]	img/radiation.png	24,24	0,-24
+54.297	-6.111	katesbridge	KATESBRIDGE (01504) down lat: 54.297, long: -6.111, ele: 91 [active: 2005-2011]	img/radiation.png	24,24	0,-24
+54.572	-5.657	ballywatticock	BALLYWATTICOCK (01517) down lat: 54.572, long: -5.657, ele: 6 [active: 2011-2011]	img/radiation.png	24,24	0,-24
+54.669	-5.748	helens-bay	HELENS BAY (01523) down lat: 54.669, long: -5.748, ele: 43 [active: 2011-2011]	img/radiation.png	24,24	0,-24
+54.674	-5.584	orlock-head	ORLOCK HEAD (01529) down lat: 54.674, long: -5.584, ele: 35 [active: 2003-2011]	img/radiation.png	24,24	0,-24
+54.237	-6.503	glenanne-no-2	GLENANNE NO 2 (01534) armagh lat: 54.237, long: -6.503, ele: 161 [active: 2001-2011]	img/radiation.png	24,24	0,-24
+54.707	-7.577	castlederg	CASTLEDERG (01543) tyrone lat: 54.707, long: -7.577, ele: 49 [active: 2011-2011]	img/radiation.png	24,24	0,-24
+54.396	-7.645	st-angelo	ST ANGELO (01568) fermanagh lat: 54.396, long: -7.645, ele: 47 [active: 1993-2013]	img/radiation.png	24,24	0,-24
+53.088	0.271	wainfleet-no-2	WAINFLEET NO 2 (16725) lincolnshire lat: 53.088, long: 0.271, ele: 3 [active: 2011-2011]	img/radiation.png	24,24	0,-24
+57.358	-7.385	south-uist-range	SOUTH UIST RANGE (18903) western-isles lat: 57.358, long: -7.385, ele: 4 [active: 2011-2011]	img/radiation.png	24,24	0,-24
+52.08	-2.802	hereford-credenhill	HEREFORD, CREDENHILL (24996) hereford-and-worcester lat: 52.08, long: -2.802, ele: 76 [active: 2011-2011]	img/radiation.png	24,24	0,-24
+56.5	-6.881	tiree	TIREE (18974) argyll-in-strathclyde-region lat: 56.5, long: -6.881, ele: 9 [active: 2000-2017]	img/radiation.png	24,24	0,-24
+51.522	-0.112	london-weather-centre	LONDON WEATHER CENTRE (19144) greater-london lat: 51.522, long: -0.112, ele: 43 [active: 1958-2006]	img/radiation.png	24,24	0,-24
+57.257	-5.805	skye-lusa	SKYE: LUSA (19172) western-isles lat: 57.257, long: -5.805, ele: 18 [active: 2001-2011]	img/radiation.png	24,24	0,-24
+52.48	-1.691	coleshill	COLESHILL (19187) warwickshire lat: 52.48, long: -1.691, ele: 96 [active: 2006-2017]	img/radiation.png	24,24	0,-24
+51.896	0.451	andrewsfield	ANDREWSFIELD (19188) essex lat: 51.896, long: 0.451, ele: 87 [active: 2011-2011]	img/radiation.png	24,24	0,-24
+53.406	-0.884	gringley-on-the-hill	GRINGLEY-ON-THE-HILL (19204) nottinghamshire lat: 53.406, long: -0.884, ele: 68 [active: 2011-2011]	img/radiation.png	24,24	0,-24
+51.405	-3.441	st-athan	ST ATHAN (19206) south-glamorgan lat: 51.405, long: -3.441, ele: 49 [active: 2001-2017]	img/radiation.png	24,24	0,-24
+57.78	-6.897	harris-quidnish	HARRIS: QUIDNISH (19211) western-isles lat: 57.78, long: -6.897, ele: 13 [active: 2011-2011]	img/radiation.png	24,24	0,-24
+55.928	-3.344	edinburgh-gogarbank	EDINBURGH, GOGARBANK (19260) midlothian-in-lothian-region lat: 55.928, long: -3.344, ele: 57 [active: 2001-2017]	img/radiation.png	24,24	0,-24
+52.457	1.162	tibenham-airfield	TIBENHAM AIRFIELD (61986) norfolk lat: 52.457, long: 1.162, ele: 52 [active: 2017-2017]	img/radiation.png	24,24	0,-24
+50.737	-3.406	exeter-airport-no-2	EXETER AIRPORT NO 2 (62041) devon lat: 50.737, long: -3.406, ele: 27 [active: 2016-2017]	img/radiation.png	24,24	0,-24
+51.682	-0.807	high-wycombe-hqair	HIGH WYCOMBE, HQAIR (17176) buckinghamshire lat: 51.682, long: -0.807, ele: 204 [active: 2011-2011]	img/radiation.png	24,24	0,-24
+52.678	1.28	norwich-airport	NORWICH AIRPORT (04911) norfolk lat: 52.678, long: 1.28, ele: 32 [active: 2007-2016]	img/radiation.png	24,24	0,-24
+50.663	-1.583	wight-needles-old-battery	WIGHT: NEEDLES OLD BATTERY (17224) isle-of-wight lat: 50.663, long: -1.583, ele: 80 [active: 2011-2011]	img/radiation.png	24,24	0,-24
+52.318	-0.278	grafham-water	GRAFHAM WATER (17278) cambridgeshire lat: 52.318, long: -0.278, ele: 52 [active: 1981-1984]	img/radiation.png	24,24	0,-24
+57.206	-3.828	aviemore-trial	AVIEMORE TRIAL (30103) inverness-shire lat: 57.206, long: -3.828, ele: 228 [active: 2001-2001]	img/radiation.png	24,24	0,-24
+53.497	-3.058	crosby	CROSBY (17309) merseyside lat: 53.497, long: -3.058, ele: 9 [active: 2011-2011]	img/radiation.png	24,24	0,-24
+54.297	-1.533	leeming	LEEMING (17314) north-yorkshire lat: 54.297, long: -1.533, ele: 33 [active: 2001-2017]	img/radiation.png	24,24	0,-24
+57.418	-5.689	bealach-na-ba-no-2	BEALACH NA BA NO 2 (30270) ross-and-cromarty lat: 57.418, long: -5.689, ele: 773 [active: 2011-2011]	img/radiation.png	24,24	0,-24
+56.423	-4.32	glen-ogle	GLEN OGLE (17336) perthshire-in-central-region lat: 56.423, long: -4.32, ele: 564 [active: 2011-2011]	img/radiation.png	24,24	0,-24
+54.563	-0.864	loftus	LOFTUS (17344) cleveland lat: 54.563, long: -0.864, ele: 158 [active: 2010-2013]	img/radiation.png	24,24	0,-24
+54.151	-7.575	derrylin	DERRYLIN (30437) fermanagh lat: 54.151, long: -7.575, ele: 70 [active: 2004-2007]	img/radiation.png	24,24	0,-24
+55.02	-1.882	albemarle	ALBEMARLE (30523) northumberland lat: 55.02, long: -1.882, ele: 142 [active: 2011-2011]	img/radiation.png	24,24	0,-24
+51.144	-0.229	charlwood	CHARLWOOD (30620) surrey lat: 51.144, long: -0.229, ele: 67 [active: 2002-2017]	img/radiation.png	24,24	0,-24
+53.128	-1.981	leek-thorncliffe	LEEK, THORNCLIFFE (30690) staffordshire lat: 53.128, long: -1.981, ele: 298 [active: 2011-2011]	img/radiation.png	24,24	0,-24
+53.339	-2.155	woodford	WOODFORD (55511) cheshire lat: 53.339, long: -2.155, ele: 88 [active: 2003-2012]	img/radiation.png	24,24	0,-24
+57.698	-2.123	rosehearty	ROSEHEARTY (16581) aberdeenshire lat: 57.698, long: -2.123, ele: 4 [active: 2011-2011]	img/radiation.png	24,24	0,-24
+51.465	0.311	gravesend-broadness	GRAVESEND, BROADNESS (16588) kent lat: 51.465, long: 0.311, ele: 3 [active: 2011-2011]	img/radiation.png	24,24	0,-24
+55.285	-2.279	redesdale-camp	REDESDALE CAMP (16589) northumberland lat: 55.285, long: -2.279, ele: 211 [active: 2011-2011]	img/radiation.png	24,24	0,-24
+57.011	-3.397	braemar-no-2	BRAEMAR NO 2 (55827) aberdeenshire lat: 57.011, long: -3.397, ele: 327 [active: 2008-2017]	img/radiation.png	24,24	0,-24
+54.205	-1.39	topcliffe	TOPCLIFFE (16596) north-yorkshire lat: 54.205, long: -1.39, ele: 25 [active: 2011-2011]	img/radiation.png	24,24	0,-24
+51.352	1.348	manston-trial	MANSTON TRIAL (25729) kent lat: 51.352, long: 1.348, ele: 44 [active: 2000-2000]	img/radiation.png	24,24	0,-24
+55.681	-6.25	islay-port-ellen	ISLAY: PORT ELLEN (23417) argyll-in-strathclyde-region lat: 55.681, long: -6.25, ele: 17 [active: 2011-2011]	img/radiation.png	24,24	0,-24
+52.456	-1.928	winterbourne-no2	WINTERBOURNE NO2 (56424) west-midlands lat: 52.456, long: -1.928, ele: 140 [active: 2011-2017]	img/radiation.png	24,24	0,-24
+52.063	-3.615	sennybridge-no-2	SENNYBRIDGE NO 2 (16611) powys-south lat: 52.063, long: -3.615, ele: 307 [active: 2011-2011]	img/radiation.png	24,24	0,-24
+52.424	-1.536	coventry-coundon	COVENTRY, COUNDON (24102) west-midlands lat: 52.424, long: -1.536, ele: 119 [active: 2001-2017]	img/radiation.png	24,24	0,-24
+55.907	-4.532	glasgow-bishopton	GLASGOW, BISHOPTON (24125) renfrewshire lat: 55.907, long: -4.532, ele: 59 [active: 2000-2017]	img/radiation.png	24,24	0,-24
+55.16	-6.949	magilligan-no-2	MAGILLIGAN NO 2 (56963) londonderry lat: 55.16, long: -6.949, ele: 6 [active: 2011-2017]	img/radiation.png	24,24	0,-24
+54.33	-7.595	thomastown	THOMASTOWN (57063) fermanagh lat: 54.33, long: -7.595, ele: 72 [active: 2012-2017]	img/radiation.png	24,24	0,-24
+53.36	-2.382	rostherne-no-2	ROSTHERNE NO 2 (57199) cheshire lat: 53.36, long: -2.382, ele: 35 [active: 2012-2017]	img/radiation.png	24,24	0,-24

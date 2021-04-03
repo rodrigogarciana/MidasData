@@ -1,0 +1,468 @@
+lat	lon	title	description	icon	iconSize	iconOffset
+60.154	-2.074	foula	FOULA (00001) shetland lat: 60.154, long: -2.074, ele: 22 [active: 1989-1995]	img/hourly-rain.png	24,24	0,-24
+59.526	-1.63	fair-isle	FAIR ISLE (00003) shetland lat: 59.526, long: -1.63, ele: 57 [active: 1974-2017]	img/hourly-rain.png	24,24	0,-24
+59.879	-1.299	sumburgh	SUMBURGH (00004) shetland lat: 59.879, long: -1.299, ele: 7 [active: 1978-1996]	img/hourly-rain.png	24,24	0,-24
+60.139	-1.185	lerwick	LERWICK (00009) shetland lat: 60.139, long: -1.185, ele: 82 [active: 1930-2017]	img/hourly-rain.png	24,24	0,-24
+60.447	-1.278	sella-ness	SELLA NESS (00010) shetland lat: 60.447, long: -1.278, ele: 7 [active: 1993-2004]	img/hourly-rain.png	24,24	0,-24
+60.748	-0.856	baltasound-no-2	BALTASOUND NO 2 (00012) shetland lat: 60.748, long: -0.856, ele: 15 [active: 1990-2017]	img/hourly-rain.png	24,24	0,-24
+59.082	-4.405	sule-skerry	SULE SKERRY (00017) orkney lat: 59.082, long: -4.405, ele: 12 [active: 1961-1974]	img/hourly-rain.png	24,24	0,-24
+58.953	-2.901	kirkwall	KIRKWALL (00023) orkney lat: 58.953, long: -2.901, ele: 26 [active: 1957-2017]	img/hourly-rain.png	24,24	0,-24
+58.311	-3.285	lybster	LYBSTER (00031) caithness lat: 58.311, long: -3.285, ele: 85 [active: 1994-2004]	img/hourly-rain.png	24,24	0,-24
+58.454	-3.09	wick-airport	WICK AIRPORT (00032) caithness lat: 58.454, long: -3.09, ele: 36 [active: 1930-2017]	img/hourly-rain.png	24,24	0,-24
+58.625	-5.0	cape-wrath	CAPE WRATH (00037) sutherland lat: 58.625, long: -5.0, ele: 112 [active: 1957-1997]	img/hourly-rain.png	24,24	0,-24
+58.168	-4.727	cassley	CASSLEY (00040) sutherland lat: 58.168, long: -4.727, ele: 99 [active: 1999-2017]	img/hourly-rain.png	24,24	0,-24
+58.288	-4.442	altnaharra-no-2	ALTNAHARRA NO 2 (00044) sutherland lat: 58.288, long: -4.442, ele: 81 [active: 1993-2017]	img/hourly-rain.png	24,24	0,-24
+58.23	-3.922	kinbrace-hatchery	KINBRACE, HATCHERY (00048) sutherland lat: 58.23, long: -3.922, ele: 103 [active: 1999-2017]	img/hourly-rain.png	24,24	0,-24
+57.859	-5.633	aultbea-no-2	AULTBEA NO 2 (00052) ross-and-cromarty lat: 57.859, long: -5.633, ele: 11 [active: 1990-2017]	img/hourly-rain.png	24,24	0,-24
+58.213	-6.319	stornoway-airport	STORNOWAY AIRPORT (00054) western-isles lat: 58.213, long: -6.319, ele: 15 [active: 1930-2017]	img/hourly-rain.png	24,24	0,-24
+57.613	-5.306	kinlochewe	KINLOCHEWE (00066) ross-and-cromarty lat: 57.613, long: -5.306, ele: 25 [active: 2005-2017]	img/hourly-rain.png	24,24	0,-24
+57.725	-4.895	loch-glascarnoch	LOCH GLASCARNOCH (00067) ross-and-cromarty lat: 57.725, long: -4.895, ele: 269 [active: 1992-2017]	img/hourly-rain.png	24,24	0,-24
+57.687	-4.167	invergordon-harbour	INVERGORDON HARBOUR (00077) ross-and-cromarty lat: 57.687, long: -4.167, ele: 3 [active: 1994-2001]	img/hourly-rain.png	24,24	0,-24
+57.703	-4.158	invergordon	INVERGORDON (00078) ross-and-cromarty lat: 57.703, long: -4.158, ele: 15 [active: 1980-1981]	img/hourly-rain.png	24,24	0,-24
+57.819	-3.967	tain-range	TAIN RANGE (00079) ross-and-cromarty lat: 57.819, long: -3.967, ele: 4 [active: 1990-2017]	img/hourly-rain.png	24,24	0,-24
+57.025	-7.449	barra-w-i	BARRA (W I) (00082) western-isles lat: 57.025, long: -7.449, ele: 3 [active: 1997-2007]	img/hourly-rain.png	24,24	0,-24
+57.155	-7.316	lochboisdale	LOCHBOISDALE (00083) western-isles lat: 57.155, long: -7.316, ele: 6 [active: 1999-1999]	img/hourly-rain.png	24,24	0,-24
+57.475	-7.371	benbecula-airport	BENBECULA AIRPORT (00084) western-isles lat: 57.475, long: -7.371, ele: 6 [active: 1957-1996]	img/hourly-rain.png	24,24	0,-24
+57.436	-6.769	waterstein	WATERSTEIN (00087) inverness-shire lat: 57.436, long: -6.769, ele: 83 [active: 1990-2004]	img/hourly-rain.png	24,24	0,-24
+56.867	-4.708	tulloch-bridge	TULLOCH BRIDGE (00105) inverness-shire lat: 56.867, long: -4.708, ele: 249 [active: 1990-2017]	img/hourly-rain.png	24,24	0,-24
+57.459	-4.373	lentran	LENTRAN (00110) inverness-shire lat: 57.459, long: -4.373, ele: 146 [active: 2009-2017]	img/hourly-rain.png	24,24	0,-24
+56.94	-4.238	dalwhinnie-no-2	DALWHINNIE NO 2 (00111) inverness-shire lat: 56.94, long: -4.238, ele: 351 [active: 2000-2017]	img/hourly-rain.png	24,24	0,-24
+57.111	-3.891	lagganlia	LAGGANLIA (00112) inverness-shire lat: 57.111, long: -3.891, ele: 250 [active: 1982-1986]	img/hourly-rain.png	24,24	0,-24
+57.206	-3.828	aviemore	AVIEMORE (00113) inverness-shire lat: 57.206, long: -3.828, ele: 228 [active: 1983-2017]	img/hourly-rain.png	24,24	0,-24
+57.328	-4.486	drumnadrochit	DRUMNADROCHIT (00114) inverness-shire lat: 57.328, long: -4.486, ele: 53 [active: 2009-2017]	img/hourly-rain.png	24,24	0,-24
+57.335	-3.606	grantown-on-spey	GRANTOWN-ON-SPEY (00130) moray-in-highland-region lat: 57.335, long: -3.606, ele: 220 [active: 1981-1981]	img/hourly-rain.png	24,24	0,-24
+57.645	-3.563	kinloss	KINLOSS (00132) moray-in-grampian-region lat: 57.645, long: -3.563, ele: 5 [active: 1957-2017]	img/hourly-rain.png	24,24	0,-24
+57.711	-3.323	lossiemouth	LOSSIEMOUTH (00137) moray-in-grampian-region lat: 57.711, long: -3.323, ele: 7 [active: 1989-2017]	img/hourly-rain.png	24,24	0,-24
+57.354	-3.345	glenlivet	GLENLIVET (00140) banffshire lat: 57.354, long: -3.345, ele: 213 [active: 1964-2008]	img/hourly-rain.png	24,24	0,-24
+57.553	-2.949	keith	KEITH (00141) banffshire lat: 57.553, long: -2.949, ele: 106 [active: 1980-1987]	img/hourly-rain.png	24,24	0,-24
+57.165	-3.23	corgarff-castle-lodge	CORGARFF, CASTLE LODGE (00144) aberdeenshire lat: 57.165, long: -3.23, ele: 400 [active: 1999-2002]	img/hourly-rain.png	24,24	0,-24
+57.006	-3.398	braemar	BRAEMAR (00147) aberdeenshire lat: 57.006, long: -3.398, ele: 339 [active: 1996-1996]	img/hourly-rain.png	24,24	0,-24
+57.037	-3.22	balmoral	BALMORAL (00148) aberdeenshire lat: 57.037, long: -3.22, ele: 283 [active: 2013-2017]	img/hourly-rain.png	24,24	0,-24
+57.076	-2.841	aboyne-no-2	ABOYNE NO 2 (00150) aberdeenshire lat: 57.076, long: -2.841, ele: 140 [active: 1990-2017]	img/hourly-rain.png	24,24	0,-24
+57.443	-2.39	fyvie-castle	FYVIE CASTLE (00159) aberdeenshire lat: 57.443, long: -2.39, ele: 55 [active: 1999-2017]	img/hourly-rain.png	24,24	0,-24
+57.187	-2.215	craibstone	CRAIBSTONE (00160) aberdeenshire lat: 57.187, long: -2.215, ele: 102 [active: 2010-2017]	img/hourly-rain.png	24,24	0,-24
+57.205	-2.205	dyce	DYCE (00161) aberdeenshire lat: 57.205, long: -2.205, ele: 65 [active: 1957-2017]	img/hourly-rain.png	24,24	0,-24
+57.697	-2.003	fraserburgh	FRASERBURGH (00166) aberdeenshire lat: 57.697, long: -2.003, ele: 18 [active: 1967-1988]	img/hourly-rain.png	24,24	0,-24
+57.06	-2.542	inchmarlo	INCHMARLO (00173) kincardineshire lat: 57.06, long: -2.542, ele: 80 [active: 1998-1998]	img/hourly-rain.png	24,24	0,-24
+56.852	-2.266	inverbervie-no-2	INVERBERVIE NO 2 (00177) kincardineshire lat: 56.852, long: -2.266, ele: 134 [active: 1992-2017]	img/hourly-rain.png	24,24	0,-24
+56.457	-3.073	mylnefield	MYLNEFIELD (00181) angus lat: 56.457, long: -3.073, ele: 31 [active: 1980-2005]	img/hourly-rain.png	24,24	0,-24
+56.681	-2.452	usan	USAN (00192) angus lat: 56.681, long: -2.452, ele: 47 [active: 1965-1979]	img/hourly-rain.png	24,24	0,-24
+56.419	-4.661	tyndrum-no-3	TYNDRUM NO 3 (00195) perthshire-in-central-region lat: 56.419, long: -4.661, ele: 168 [active: 1999-2017]	img/hourly-rain.png	24,24	0,-24
+56.693	-4.401	loch-rannoch-power-house	LOCH RANNOCH POWER HOUSE (00196) perthshire-in-tayside-region lat: 56.693, long: -4.401, ele: 206 [active: 1999-2006]	img/hourly-rain.png	24,24	0,-24
+56.23	-4.263	loch-venachar	LOCH VENACHAR (00199) perthshire-in-central-region lat: 56.23, long: -4.263, ele: 84 [active: 1980-2004]	img/hourly-rain.png	24,24	0,-24
+56.355	-4.397	balquhidder-no-2	BALQUHIDDER NO 2 (00201) perthshire-in-central-region lat: 56.355, long: -4.397, ele: 136 [active: 1985-1986]	img/hourly-rain.png	24,24	0,-24
+56.326	-3.729	strathallan-airfield	STRATHALLAN AIRFIELD (00212) perthshire-in-tayside-region lat: 56.326, long: -3.729, ele: 35 [active: 1990-2017]	img/hourly-rain.png	24,24	0,-24
+56.718	-3.77	faskally	FASKALLY (00214) perthshire-in-tayside-region lat: 56.718, long: -3.77, ele: 94 [active: 1980-2005]	img/hourly-rain.png	24,24	0,-24
+56.437	-3.372	perth-aerodrome	PERTH AERODROME (00223) perthshire-in-tayside-region lat: 56.437, long: -3.372, ele: 118 [active: 1997-2000]	img/hourly-rain.png	24,24	0,-24
+56.048	-3.419	pitreavie-no-2	PITREAVIE NO 2 (00227) fife lat: 56.048, long: -3.419, ele: 40 [active: 1961-1985]	img/hourly-rain.png	24,24	0,-24
+56.377	-2.862	leuchars	LEUCHARS (00235) fife lat: 56.377, long: -2.862, ele: 10 [active: 1921-2017]	img/hourly-rain.png	24,24	0,-24
+56.279	-2.586	fife-ness	FIFE NESS (00239) fife lat: 56.279, long: -2.586, ele: 12 [active: 1984-2007]	img/hourly-rain.png	24,24	0,-24
+55.951	-3.348	turnhouse	TURNHOUSE (00246) midlothian-in-lothian-region lat: 55.951, long: -3.348, ele: 35 [active: 1957-1999]	img/hourly-rain.png	24,24	0,-24
+55.966	-3.207	edinburgh-royal-botanic-garden-no-2	EDINBURGH, ROYAL BOTANIC GARDEN NO 2 (00253) midlothian-in-lothian-region lat: 55.966, long: -3.207, ele: 23 [active: 2010-2017]	img/hourly-rain.png	24,24	0,-24
+55.921	-2.652	nunraw-abbey	NUNRAW ABBEY (00262) east-lothian lat: 55.921, long: -2.652, ele: 197 [active: 1980-2005]	img/hourly-rain.png	24,24	0,-24
+55.709	-2.385	charterhall	CHARTERHALL (00268) berwickshire lat: 55.709, long: -2.385, ele: 112 [active: 1990-2017]	img/hourly-rain.png	24,24	0,-24
+55.646	-3.139	glentress	GLENTRESS (00278) peebleshire lat: 55.646, long: -3.139, ele: 165 [active: 1999-2006]	img/hourly-rain.png	24,24	0,-24
+55.567	-2.637	greycrook	GREYCROOK (00284) roxburghshire lat: 55.567, long: -2.637, ele: 76 [active: 1980-2003]	img/hourly-rain.png	24,24	0,-24
+55.358	-2.519	carterhouse	CARTERHOUSE (00285) roxburghshire lat: 55.358, long: -2.519, ele: 308 [active: 1994-2017]	img/hourly-rain.png	24,24	0,-24
+55.234	-2.58	kielder-castle	KIELDER CASTLE (00289) northumberland lat: 55.234, long: -2.58, ele: 201 [active: 2013-2017]	img/hourly-rain.png	24,24	0,-24
+55.754	-2.033	berwick-upon-tweed	BERWICK-UPON-TWEED (00303) northumberland lat: 55.754, long: -2.033, ele: 42 [active: 1996-1996]	img/hourly-rain.png	24,24	0,-24
+55.301	-1.806	longframlington	LONGFRAMLINGTON (00304) northumberland lat: 55.301, long: -1.806, ele: 158 [active: 1996-1997]	img/hourly-rain.png	24,24	0,-24
+54.977	-1.598	newcastle-weather-centre	NEWCASTLE WEATHER CENTRE (00307) tyne-and-wear lat: 54.977, long: -1.598, ele: 52 [active: 1974-2005]	img/hourly-rain.png	24,24	0,-24
+55.213	-1.688	morpeth-cockle-park	MORPETH, COCKLE PARK (00310) northumberland lat: 55.213, long: -1.688, ele: 95 [active: 2014-2017]	img/hourly-rain.png	24,24	0,-24
+55.018	-1.417	tynemouth	TYNEMOUTH (00313) tyne-and-wear lat: 55.018, long: -1.417, ele: 33 [active: 1957-2001]	img/hourly-rain.png	24,24	0,-24
+55.421	-1.601	boulmer	BOULMER (00315) northumberland lat: 55.421, long: -1.601, ele: 23 [active: 1988-2017]	img/hourly-rain.png	24,24	0,-24
+54.821	-2.09	boltshope-park	BOLTSHOPE PARK (00319) durham lat: 54.821, long: -2.09, ele: 434 [active: 1994-2007]	img/hourly-rain.png	24,24	0,-24
+54.768	-1.586	durham	DURHAM (00326) durham lat: 54.768, long: -1.586, ele: 102 [active: 1997-2017]	img/hourly-rain.png	24,24	0,-24
+54.904	-1.395	sunderland-university	SUNDERLAND UNIVERSITY (00332) tyne-and-wear lat: 54.904, long: -1.395, ele: 70 [active: 1996-1997]	img/hourly-rain.png	24,24	0,-24
+54.308	-2.101	bainbridge	BAINBRIDGE (00339) north-yorkshire lat: 54.308, long: -2.101, ele: 210 [active: 2010-2017]	img/hourly-rain.png	24,24	0,-24
+54.135	-1.415	dishforth-airfield	DISHFORTH AIRFIELD (00342) north-yorkshire lat: 54.135, long: -1.415, ele: 33 [active: 1957-2016]	img/hourly-rain.png	24,24	0,-24
+54.045	-1.251	linton-on-ouse	LINTON ON OUSE (00346) north-yorkshire lat: 54.045, long: -1.251, ele: 14 [active: 1984-2017]	img/hourly-rain.png	24,24	0,-24
+54.359	-0.672	fylingdales	FYLINGDALES (00358) north-yorkshire lat: 54.359, long: -0.672, ele: 262 [active: 1984-2017]	img/hourly-rain.png	24,24	0,-24
+54.273	-0.423	scarborough	SCARBOROUGH (00360) north-yorkshire lat: 54.273, long: -0.423, ele: 110 [active: 2010-2017]	img/hourly-rain.png	24,24	0,-24
+54.49	-0.606	whitby-coastguard	WHITBY COASTGUARD (00364) north-yorkshire lat: 54.49, long: -0.606, ele: 60 [active: 1996-1996]	img/hourly-rain.png	24,24	0,-24
+54.105	-0.643	high-mowthorpe	HIGH MOWTHORPE (00367) north-yorkshire lat: 54.105, long: -0.643, ele: 175 [active: 2009-2017]	img/hourly-rain.png	24,24	0,-24
+53.875	-0.442	leconfield	LECONFIELD (00370) humberside lat: 53.875, long: -0.442, ele: 7 [active: 1992-2017]	img/hourly-rain.png	24,24	0,-24
+54.094	-0.176	bridlington-mrsc	BRIDLINGTON MRSC (00373) humberside lat: 54.094, long: -0.176, ele: 15 [active: 1994-2017]	img/hourly-rain.png	24,24	0,-24
+53.622	0.141	kilnsea	KILNSEA (00376) humberside lat: 53.622, long: 0.141, ele: 12 [active: 1957-1976]	img/hourly-rain.png	24,24	0,-24
+53.844	-0.103	cowden	COWDEN (00379) humberside lat: 53.844, long: -0.103, ele: 15 [active: 1995-1998]	img/hourly-rain.png	24,24	0,-24
+53.307	-0.548	scampton	SCAMPTON (00381) lincolnshire lat: 53.307, long: -0.548, ele: 57 [active: 1984-2017]	img/hourly-rain.png	24,24	0,-24
+53.637	-0.659	normanby-hall	NORMANBY HALL (00382) humberside lat: 53.637, long: -0.659, ele: 47 [active: 2010-2017]	img/hourly-rain.png	24,24	0,-24
+53.175	-0.523	waddington	WADDINGTON (00384) lincolnshire lat: 53.175, long: -0.523, ele: 68 [active: 1949-2017]	img/hourly-rain.png	24,24	0,-24
+53.031	-0.504	cranwell	CRANWELL (00386) lincolnshire lat: 53.031, long: -0.504, ele: 63 [active: 1930-2017]	img/hourly-rain.png	24,24	0,-24
+53.094	-0.173	coningsby	CONINGSBY (00393) lincolnshire lat: 53.094, long: -0.173, ele: 6 [active: 1978-2017]	img/hourly-rain.png	24,24	0,-24
+53.445	-0.202	binbrook	BINBROOK (00394) lincolnshire lat: 53.445, long: -0.202, ele: 108 [active: 1963-1992]	img/hourly-rain.png	24,24	0,-24
+52.873	0.139	holbeach-no-2	HOLBEACH NO 2 (00395) lincolnshire lat: 52.873, long: 0.139, ele: 3 [active: 1990-2017]	img/hourly-rain.png	24,24	0,-24
+53.55	-0.03	cleethorpes-haverstoe-park	CLEETHORPES, HAVERSTOE PARK (00399) humberside lat: 53.55, long: -0.03, ele: 7 [active: 2003-2004]	img/hourly-rain.png	24,24	0,-24
+53.361	0.097	manby	MANBY (00401) lincolnshire lat: 53.361, long: 0.097, ele: 13 [active: 1957-1974]	img/hourly-rain.png	24,24	0,-24
+52.626	1.298	norwich-weather-centre	NORWICH WEATHER CENTRE (00408) norfolk lat: 52.626, long: 1.298, ele: 35 [active: 1987-2000]	img/hourly-rain.png	24,24	0,-24
+52.651	0.566	marham	MARHAM (00409) norfolk lat: 52.651, long: 0.566, ele: 21 [active: 1957-2017]	img/hourly-rain.png	24,24	0,-24
+52.459	0.671	santon-downham	SANTON DOWNHAM (00413) suffolk lat: 52.459, long: 0.671, ele: 6 [active: 2009-2017]	img/hourly-rain.png	24,24	0,-24
+52.786	0.737	west-raynham	WEST RAYNHAM (00415) norfolk lat: 52.786, long: 0.737, ele: 73 [active: 1957-1969]	img/hourly-rain.png	24,24	0,-24
+52.949	1.122	weybourne	WEYBOURNE (00421) norfolk lat: 52.949, long: 1.122, ele: 21 [active: 1990-2017]	img/hourly-rain.png	24,24	0,-24
+52.934	1.291	cromer	CROMER (00426) norfolk lat: 52.934, long: 1.291, ele: 37 [active: 2009-2017]	img/hourly-rain.png	24,24	0,-24
+52.757	1.351	coltishall	COLTISHALL (00429) norfolk lat: 52.757, long: 1.351, ele: 17 [active: 1962-2006]	img/hourly-rain.png	24,24	0,-24
+52.572	1.738	gorleston	GORLESTON (00432) norfolk lat: 52.572, long: 1.738, ele: 4 [active: 1930-1975]	img/hourly-rain.png	24,24	0,-24
+52.686	1.687	hemsby	HEMSBY (00433) norfolk lat: 52.686, long: 1.687, ele: 13 [active: 1978-2001]	img/hourly-rain.png	24,24	0,-24
+52.372	0.471	mildenhall	MILDENHALL (00434) suffolk lat: 52.372, long: 0.471, ele: 5 [active: 1949-1969]	img/hourly-rain.png	24,24	0,-24
+52.261	0.566	brooms-barn	BROOMS BARN (00435) suffolk lat: 52.261, long: 0.566, ele: 75 [active: 2009-2017]	img/hourly-rain.png	24,24	0,-24
+52.091	0.628	cavendish	CAVENDISH (00436) suffolk lat: 52.091, long: 0.628, ele: 55 [active: 2010-2017]	img/hourly-rain.png	24,24	0,-24
+52.34	0.77	honington	HONINGTON (00438) suffolk lat: 52.34, long: 0.77, ele: 51 [active: 1969-2003]	img/hourly-rain.png	24,24	0,-24
+52.124	0.957	wattisham	WATTISHAM (00440) suffolk lat: 52.124, long: 0.957, ele: 89 [active: 1959-2017]	img/hourly-rain.png	24,24	0,-24
+52.163	1.28	charsfield	CHARSFIELD (00442) suffolk lat: 52.163, long: 1.28, ele: 49 [active: 2010-2017]	img/hourly-rain.png	24,24	0,-24
+51.947	1.325	felixstowe	FELIXSTOWE (00443) suffolk lat: 51.947, long: 1.325, ele: 3 [active: 1957-1961]	img/hourly-rain.png	24,24	0,-24
+52.245	0.1	cambridge-niab	CAMBRIDGE, NIAB (00455) cambridgeshire lat: 52.245, long: 0.1, ele: 26 [active: 2009-2017]	img/hourly-rain.png	24,24	0,-24
+52.402	-0.237	monks-wood	MONKS WOOD (00456) cambridgeshire lat: 52.402, long: -0.237, ele: 41 [active: 2000-2017]	img/hourly-rain.png	24,24	0,-24
+52.354	-0.116	wyton	WYTON (00457) cambridgeshire lat: 52.354, long: -0.116, ele: 40 [active: 1957-1995]	img/hourly-rain.png	24,24	0,-24
+52.014	-0.596	woburn	WOBURN (00458) bedfordshire lat: 52.014, long: -0.596, ele: 89 [active: 2000-2017]	img/hourly-rain.png	24,24	0,-24
+51.886	-0.54	dunstable	DUNSTABLE (00459) bedfordshire lat: 51.886, long: -0.54, ele: 157 [active: 1957-1960]	img/hourly-rain.png	24,24	0,-24
+52.227	-0.465	bedford	BEDFORD (00461) bedfordshire lat: 52.227, long: -0.465, ele: 85 [active: 1980-2017]	img/hourly-rain.png	24,24	0,-24
+52.104	-0.423	cardington	CARDINGTON (00465) bedfordshire lat: 52.104, long: -0.423, ele: 29 [active: 1957-1980]	img/hourly-rain.png	24,24	0,-24
+54.076	-2.86	morecambe-no-2	MORECAMBE NO 2 (16851) lancashire lat: 54.076, long: -2.86, ele: 7 [active: 2011-2017]	img/hourly-rain.png	24,24	0,-24
+51.724	-0.544	bovingdon	BOVINGDON (00468) hertfordshire lat: 51.724, long: -0.544, ele: 157 [active: 1957-1967]	img/hourly-rain.png	24,24	0,-24
+51.807	-0.36	rothamsted	ROTHAMSTED (00471) hertfordshire lat: 51.807, long: -0.36, ele: 128 [active: 1999-2017]	img/hourly-rain.png	24,24	0,-24
+51.664	0.041	high-beach	HIGH BEACH (00481) essex lat: 51.664, long: 0.041, ele: 110 [active: 2013-2017]	img/hourly-rain.png	24,24	0,-24
+51.881	0.223	stansted	STANSTED (00484) essex lat: 51.881, long: 0.223, ele: 101 [active: 1959-1997]	img/hourly-rain.png	24,24	0,-24
+51.734	0.429	writtle	WRITTLE (00487) essex lat: 51.734, long: 0.429, ele: 32 [active: 2009-2017]	img/hourly-rain.png	24,24	0,-24
+51.537	0.807	shoeburyness	SHOEBURYNESS (00497) essex lat: 51.537, long: 0.807, ele: 2 [active: 1930-1981]	img/hourly-rain.png	24,24	0,-24
+51.555	0.827	shoeburyness-landwick	SHOEBURYNESS, LANDWICK (00498) essex lat: 51.555, long: 0.827, ele: 2 [active: 1981-2017]	img/hourly-rain.png	24,24	0,-24
+51.855	1.28	walton-on-the-naze	WALTON-ON-THE-NAZE (00504) essex lat: 51.855, long: 1.28, ele: 5 [active: 1962-1973]	img/hourly-rain.png	24,24	0,-24
+53.811	-1.867	bingley-no-2	BINGLEY, NO 2 (00513) west-yorkshire lat: 53.811, long: -1.867, ele: 262 [active: 1994-2017]	img/hourly-rain.png	24,24	0,-24
+53.656	-1.831	huddersfield-oakes	HUDDERSFIELD, OAKES (00515) west-yorkshire lat: 53.656, long: -1.831, ele: 232 [active: 1957-1986]	img/hourly-rain.png	24,24	0,-24
+53.814	-1.774	bradford	BRADFORD (00516) west-yorkshire lat: 53.814, long: -1.774, ele: 134 [active: 2010-2017]	img/hourly-rain.png	24,24	0,-24
+53.613	-1.665	emley-moor	EMLEY MOOR (00521) west-yorkshire lat: 53.613, long: -1.665, ele: 259 [active: 1984-2010]	img/hourly-rain.png	24,24	0,-24
+53.801	-1.561	leeds-weather-centre	LEEDS WEATHER CENTRE (00523) west-yorkshire lat: 53.801, long: -1.561, ele: 64 [active: 1989-2003]	img/hourly-rain.png	24,24	0,-24
+53.381	-1.491	sheffield	SHEFFIELD (00525) south-yorkshire lat: 53.381, long: -1.491, ele: 131 [active: 2008-2017]	img/hourly-rain.png	24,24	0,-24
+53.628	-1.394	ryhill	RYHILL (00529) west-yorkshire lat: 53.628, long: -1.394, ele: 78 [active: 2010-2017]	img/hourly-rain.png	24,24	0,-24
+53.836	-1.199	church-fenton	CHURCH FENTON (00533) north-yorkshire lat: 53.836, long: -1.199, ele: 8 [active: 1983-2014]	img/hourly-rain.png	24,24	0,-24
+53.869	-1.319	bramham	BRAMHAM (00534) west-yorkshire lat: 53.869, long: -1.319, ele: 54 [active: 2001-2017]	img/hourly-rain.png	24,24	0,-24
+53.549	-0.972	lindholme	LINDHOLME (00537) south-yorkshire lat: 53.549, long: -0.972, ele: 5 [active: 1957-1970]	img/hourly-rain.png	24,24	0,-24
+53.258	-1.914	buxton	BUXTON (00539) derbyshire lat: 53.258, long: -1.914, ele: 307 [active: 1924-1925]	img/hourly-rain.png	24,24	0,-24
+52.737	-1.641	coton-in-the-elms	COTON-IN-THE-ELMS (00542) derbyshire lat: 52.737, long: -1.641, ele: 85 [active: 2010-2017]	img/hourly-rain.png	24,24	0,-24
+52.836	-1.251	sutton-bonington	SUTTON BONINGTON (00554) nottinghamshire lat: 52.836, long: -1.251, ele: 43 [active: 2000-2017]	img/hourly-rain.png	24,24	0,-24
+53.006	-1.251	nottingham-watnall	NOTTINGHAM, WATNALL (00556) nottinghamshire lat: 53.006, long: -1.251, ele: 117 [active: 1957-2017]	img/hourly-rain.png	24,24	0,-24
+53.483	-1.008	finningley	FINNINGLEY (00562) south-yorkshire lat: 53.483, long: -1.008, ele: 10 [active: 1958-1995]	img/hourly-rain.png	24,24	0,-24
+52.896	-0.909	langar	LANGAR (00568) nottinghamshire lat: 52.896, long: -0.909, ele: 32 [active: 1957-1961]	img/hourly-rain.png	24,24	0,-24
+52.727	-0.656	cottesmore	COTTESMORE (00576) leicestershire lat: 52.727, long: -0.656, ele: 136 [active: 1984-2011]	img/hourly-rain.png	24,24	0,-24
+52.274	-0.881	northampton-moulton-park	NORTHAMPTON, MOULTON PARK (00578) northamptonshire lat: 52.274, long: -0.881, ele: 127 [active: 2009-2017]	img/hourly-rain.png	24,24	0,-24
+52.612	-0.468	wittering	WITTERING (00583) cambridgeshire lat: 52.612, long: -0.468, ele: 74 [active: 1957-2017]	img/hourly-rain.png	24,24	0,-24
+52.454	-1.924	winterbourne-university-of-birmingham	WINTERBOURNE, UNIVERSITY OF BIRMINGHAM (00586) west-midlands lat: 52.454, long: -1.924, ele: 130 [active: 2001-2012]	img/hourly-rain.png	24,24	0,-24
+52.453	-1.742	elmdon	ELMDON (00593) west-midlands lat: 52.453, long: -1.742, ele: 96 [active: 1980-1999]	img/hourly-rain.png	24,24	0,-24
+52.359	-1.331	church-lawford	CHURCH LAWFORD (00595) warwickshire lat: 52.359, long: -1.331, ele: 107 [active: 1990-2017]	img/hourly-rain.png	24,24	0,-24
+52.206	-1.605	wellesbourne	WELLESBOURNE (00596) warwickshire lat: 52.206, long: -1.605, ele: 47 [active: 2011-2017]	img/hourly-rain.png	24,24	0,-24
+51.758	-1.578	brize-norton	BRIZE NORTON (00605) oxfordshire lat: 51.758, long: -1.578, ele: 82 [active: 1968-2017]	img/hourly-rain.png	24,24	0,-24
+51.998	-1.406	south-newington	SOUTH NEWINGTON (00607) oxfordshire lat: 51.998, long: -1.406, ele: 105 [active: 2011-2017]	img/hourly-rain.png	24,24	0,-24
+51.62	-1.099	benson	BENSON (00613) oxfordshire lat: 51.62, long: -1.099, ele: 57 [active: 1974-2017]	img/hourly-rain.png	24,24	0,-24
+51.69	-0.534	chenies-no-2	CHENIES NO 2 (00620) buckinghamshire lat: 51.69, long: -0.534, ele: 139 [active: 1992-1998]	img/hourly-rain.png	24,24	0,-24
+52.999	-2.27	keele	KEELE (00622) staffordshire lat: 52.999, long: -2.27, ele: 179 [active: 2006-2017]	img/hourly-rain.png	24,24	0,-24
+53.04	-2.085	cellarhead	CELLARHEAD (00627) staffordshire lat: 53.04, long: -2.085, ele: 228 [active: 1983-1997]	img/hourly-rain.png	24,24	0,-24
+52.59	-2.95	pennerley	PENNERLEY (00634) shropshire lat: 52.59, long: -2.95, ele: 357 [active: 2010-2017]	img/hourly-rain.png	24,24	0,-24
+52.795	-2.665	shawbury	SHAWBURY (00643) shropshire lat: 52.795, long: -2.665, ele: 72 [active: 1957-2017]	img/hourly-rain.png	24,24	0,-24
+52.398	-2.591	clee-hill	CLEE HILL (00645) shropshire lat: 52.398, long: -2.591, ele: 504 [active: 1966-1971]	img/hourly-rain.png	24,24	0,-24
+52.778	-2.428	newport-salop	NEWPORT (SALOP) (00651) shropshire lat: 52.778, long: -2.428, ele: 66 [active: 2010-2017]	img/hourly-rain.png	24,24	0,-24
+52.211	-2.23	worcester-barbourne	WORCESTER, BARBOURNE (00654) hereford-and-worcester lat: 52.211, long: -2.23, ele: 25 [active: 1995-2003]	img/hourly-rain.png	24,24	0,-24
+52.148	-2.041	pershore	PERSHORE (00657) hereford-and-worcester lat: 52.148, long: -2.041, ele: 35 [active: 1957-2017]	img/hourly-rain.png	24,24	0,-24
+52.1	-2.06	pershore-college	PERSHORE COLLEGE (00658) hereford-and-worcester lat: 52.1, long: -2.06, ele: 37 [active: 1999-2017]	img/hourly-rain.png	24,24	0,-24
+52.248	-1.935	astwood-bank	ASTWOOD BANK (00660) hereford-and-worcester lat: 52.248, long: -1.935, ele: 137 [active: 2010-2017]	img/hourly-rain.png	24,24	0,-24
+52.031	-2.842	madley	MADLEY (00664) hereford-and-worcester lat: 52.031, long: -2.842, ele: 78 [active: 1984-1998]	img/hourly-rain.png	24,24	0,-24
+52.243	-2.886	shobdon-airfield	SHOBDON AIRFIELD (00669) hereford-and-worcester lat: 52.243, long: -2.886, ele: 99 [active: 1992-2017]	img/hourly-rain.png	24,24	0,-24
+52.121	-2.306	great-malvern	GREAT MALVERN (00670) hereford-and-worcester lat: 52.121, long: -2.306, ele: 44 [active: 1995-2008]	img/hourly-rain.png	24,24	0,-24
+51.911	-2.586	ross-on-wye	ROSS-ON-WYE (00671) hereford-and-worcester lat: 51.911, long: -2.586, ele: 67 [active: 1930-2017]	img/hourly-rain.png	24,24	0,-24
+52.125	-2.638	preston-wynne	PRESTON WYNNE (00673) hereford-and-worcester lat: 52.125, long: -2.638, ele: 84 [active: 1999-2008]	img/hourly-rain.png	24,24	0,-24
+51.453	-2.6	bristol-weather-centre	BRISTOL WEATHER CENTRE (00675) avon lat: 51.453, long: -2.6, ele: 42 [active: 1982-2001]	img/hourly-rain.png	24,24	0,-24
+51.522	-2.577	filton	FILTON (00676) avon lat: 51.522, long: -2.577, ele: 59 [active: 1957-2017]	img/hourly-rain.png	24,24	0,-24
+51.74	-2.404	slimbridge	SLIMBRIDGE (00680) gloucestershire lat: 51.74, long: -2.404, ele: 5 [active: 1997-1998]	img/hourly-rain.png	24,24	0,-24
+51.858	-2.218	gloucester	GLOUCESTER (00684) gloucestershire lat: 51.858, long: -2.218, ele: 23 [active: 1960-1976]	img/hourly-rain.png	24,24	0,-24
+51.808	-2.619	berry-hill	BERRY HILL (00685) gloucestershire lat: 51.808, long: -2.619, ele: 232 [active: 1983-1983]	img/hourly-rain.png	24,24	0,-24
+51.891	-2.196	innsworth	INNSWORTH (00686) gloucestershire lat: 51.891, long: -2.196, ele: 21 [active: 1976-1981]	img/hourly-rain.png	24,24	0,-24
+51.607	-2.221	westonbirt	WESTONBIRT (00691) gloucestershire lat: 51.607, long: -2.221, ele: 135 [active: 2009-2017]	img/hourly-rain.png	24,24	0,-24
+51.861	-1.693	little-rissington	LITTLE RISSINGTON (00692) gloucestershire lat: 51.861, long: -1.693, ele: 210 [active: 1957-2017]	img/hourly-rain.png	24,24	0,-24
+51.561	-0.18	hampstead	HAMPSTEAD (00695) greater-london lat: 51.561, long: -0.18, ele: 137 [active: 2010-2016]	img/hourly-rain.png	24,24	0,-24
+51.505	-0.131	london-st-jamess-park	LONDON, ST JAMES'S PARK (00697) greater-london lat: 51.505, long: -0.131, ele: 5 [active: 1997-2017]	img/hourly-rain.png	24,24	0,-24
+51.48	-0.004	greenwich	GREENWICH (00707) greater-london lat: 51.48, long: -0.004, ele: 7 [active: 1997-1997]	img/hourly-rain.png	24,24	0,-24
+51.479	-0.451	heathrow	HEATHROW (00708) greater-london lat: 51.479, long: -0.451, ele: 25 [active: 1949-2017]	img/hourly-rain.png	24,24	0,-24
+51.549	-0.417	northolt	NORTHOLT (00709) greater-london lat: 51.549, long: -0.417, ele: 33 [active: 1995-2017]	img/hourly-rain.png	24,24	0,-24
+51.412	-0.378	hampton-w-wks	HAMPTON W WKS (00711) greater-london lat: 51.412, long: -0.378, ele: 12 [active: 2012-2017]	img/hourly-rain.png	24,24	0,-24
+51.311	-0.476	wisley	WISLEY (00719) surrey lat: 51.311, long: -0.476, ele: 38 [active: 2000-2017]	img/hourly-rain.png	24,24	0,-24
+51.468	-0.316	kew	KEW (00721) greater-london lat: 51.468, long: -0.316, ele: 5 [active: 1957-1981]	img/hourly-rain.png	24,24	0,-24
+51.482	-0.294	kew-gardens	KEW GARDENS (00723) greater-london lat: 51.482, long: -0.294, ele: 6 [active: 2007-2017]	img/hourly-rain.png	24,24	0,-24
+51.152	-0.193	gatwick	GATWICK (00725) west-sussex lat: 51.152, long: -0.193, ele: 59 [active: 1958-1998]	img/hourly-rain.png	24,24	0,-24
+51.304	-0.092	kenley-airfield	KENLEY AIRFIELD (00726) greater-london lat: 51.304, long: -0.092, ele: 170 [active: 1991-2017]	img/hourly-rain.png	24,24	0,-24
+51.206	1.015	anvil-green	ANVIL GREEN (00732) kent lat: 51.206, long: 1.015, ele: 140 [active: 1984-1992]	img/hourly-rain.png	24,24	0,-24
+51.077	0.46	goudhurst	GOUDHURST (00742) kent lat: 51.077, long: 0.46, ele: 85 [active: 2009-2017]	img/hourly-rain.png	24,24	0,-24
+51.288	0.448	east-malling	EAST MALLING (00744) kent lat: 51.288, long: 0.448, ele: 33 [active: 1997-2017]	img/hourly-rain.png	24,24	0,-24
+51.197	0.636	ulcombe	ULCOMBE (00746) kent lat: 51.197, long: 0.636, ele: 47 [active: 1973-1996]	img/hourly-rain.png	24,24	0,-24
+51.197	0.782	charing	CHARING (00747) kent lat: 51.197, long: 0.782, ele: 91 [active: 1980-1997]	img/hourly-rain.png	24,24	0,-24
+51.185	0.63	peckham	PECKHAM (00750) kent lat: 51.185, long: 0.63, ele: 29 [active: 1969-1972]	img/hourly-rain.png	24,24	0,-24
+50.913	0.972	dungeness	DUNGENESS (00758) kent lat: 50.913, long: 0.972, ele: 6 [active: 1957-1961]	img/hourly-rain.png	24,24	0,-24
+51.078	1.178	folkestone	FOLKESTONE (00763) kent lat: 51.078, long: 1.178, ele: 39 [active: 1919-1925]	img/hourly-rain.png	24,24	0,-24
+51.358	1.135	herne-bay-no-2	HERNE BAY NO 2 (00765) kent lat: 51.358, long: 1.135, ele: 40 [active: 2000-2006]	img/hourly-rain.png	24,24	0,-24
+51.157	1.392	st-margarets	ST MARGARETS (00773) kent lat: 51.157, long: 1.392, ele: 83 [active: 1971-1975]	img/hourly-rain.png	24,24	0,-24
+51.232	1.403	deal	DEAL (00774) kent lat: 51.232, long: 1.403, ele: 2 [active: 1958-1971]	img/hourly-rain.png	24,24	0,-24
+51.347	1.335	manston	MANSTON (00775) kent lat: 51.347, long: 1.335, ele: 49 [active: 1961-2017]	img/hourly-rain.png	24,24	0,-24
+51.392	1.402	margate	MARGATE (00778) kent lat: 51.392, long: 1.402, ele: 16 [active: 1915-1925]	img/hourly-rain.png	24,24	0,-24
+50.815	-0.922	thorney-island	THORNEY ISLAND (00779) west-sussex lat: 50.815, long: -0.922, ele: 4 [active: 1958-2017]	img/hourly-rain.png	24,24	0,-24
+50.85	-0.707	tangmere	TANGMERE (00783) west-sussex lat: 50.85, long: -0.707, ele: 16 [active: 1987-1997]	img/hourly-rain.png	24,24	0,-24
+50.836	-0.293	shoreham-airport	SHOREHAM AIRPORT (00795) west-sussex lat: 50.836, long: -0.293, ele: 2 [active: 1998-2017]	img/hourly-rain.png	24,24	0,-24
+50.909	0.145	east-hoathly	EAST HOATHLY (00807) east-sussex lat: 50.909, long: 0.145, ele: 38 [active: 1963-1970]	img/hourly-rain.png	24,24	0,-24
+50.782	0.309	eastbourne-coastguard	EASTBOURNE COASTGUARD (00809) east-sussex lat: 50.782, long: 0.309, ele: 3 [active: 1957-1974]	img/hourly-rain.png	24,24	0,-24
+50.865	0.336	herstmonceux	HERSTMONCEUX (00810) east-sussex lat: 50.865, long: 0.336, ele: 18 [active: 1977-1992]	img/hourly-rain.png	24,24	0,-24
+50.891	0.317	herstmonceux-west-end	HERSTMONCEUX, WEST END (00811) east-sussex lat: 50.891, long: 0.317, ele: 52 [active: 1992-2017]	img/hourly-rain.png	24,24	0,-24
+50.838	0.464	bexhill	BEXHILL (00812) east-sussex lat: 50.838, long: 0.464, ele: 4 [active: 1923-1925]	img/hourly-rain.png	24,24	0,-24
+51.08	-0.815	liphook	LIPHOOK (00814) hampshire lat: 51.08, long: -0.815, ele: 98 [active: 1983-1988]	img/hourly-rain.png	24,24	0,-24
+50.939	0.593	brede	BREDE (00816) east-sussex lat: 50.939, long: 0.593, ele: 82 [active: 1989-1992]	img/hourly-rain.png	24,24	0,-24
+51.689	-1.308	abingdon	ABINGDON (00822) oxfordshire lat: 51.689, long: -1.308, ele: 69 [active: 1957-1975]	img/hourly-rain.png	24,24	0,-24
+51.441	-0.938	reading-university-whiteknights	READING UNIVERSITY, WHITEKNIGHTS (00830) berkshire lat: 51.441, long: -0.938, ele: 66 [active: 2012-2017]	img/hourly-rain.png	24,24	0,-24
+51.39	-0.786	bracknell-beaufort-park	BRACKNELL, BEAUFORT PARK (00838) berkshire lat: 51.39, long: -0.786, ele: 74 [active: 1980-2003]	img/hourly-rain.png	24,24	0,-24
+50.779	-1.836	hurn	HURN (00842) dorset lat: 50.779, long: -1.836, ele: 10 [active: 1957-2017]	img/hourly-rain.png	24,24	0,-24
+51.15	-1.57	middle-wallop	MIDDLE WALLOP (00847) hampshire lat: 51.15, long: -1.57, ele: 90 [active: 1989-2017]	img/hourly-rain.png	24,24	0,-24
+50.905	-1.405	southampton-east-park	SOUTHAMPTON, EAST PARK (00849) hampshire lat: 50.905, long: -1.405, ele: 20 [active: 1969-1969]	img/hourly-rain.png	24,24	0,-24
+50.901	-1.404	southampton	SOUTHAMPTON (00850) hampshire lat: 50.901, long: -1.404, ele: 19 [active: 1974-2001]	img/hourly-rain.png	24,24	0,-24
+51.009	-1.335	otterbourne-w-wks	OTTERBOURNE W WKS (00855) hampshire lat: 51.009, long: -1.335, ele: 34 [active: 2010-2017]	img/hourly-rain.png	24,24	0,-24
+51.239	-0.945	odiham	ODIHAM (00862) hampshire lat: 51.239, long: -0.945, ele: 118 [active: 1993-2017]	img/hourly-rain.png	24,24	0,-24
+51.178	-0.85	alice-holt-lodge	ALICE HOLT LODGE (00868) hampshire lat: 51.178, long: -0.85, ele: 115 [active: 2009-2017]	img/hourly-rain.png	24,24	0,-24
+51.28	-0.773	south-farnborough	SOUTH FARNBOROUGH (00869) hampshire lat: 51.28, long: -0.773, ele: 65 [active: 1957-2017]	img/hourly-rain.png	24,24	0,-24
+50.69	-1.448	wight-wellow	WIGHT: WELLOW (00874) isle-of-wight lat: 50.69, long: -1.448, ele: 25 [active: 1989-1992]	img/hourly-rain.png	24,24	0,-24
+50.576	-1.297	wight-st-catherines-point	WIGHT: ST CATHERINES POINT (00876) isle-of-wight lat: 50.576, long: -1.297, ele: 20 [active: 1982-2017]	img/hourly-rain.png	24,24	0,-24
+51.244	-1.766	netheravon	NETHERAVON (00882) wiltshire lat: 51.244, long: -1.766, ele: 129 [active: 1991-1995]	img/hourly-rain.png	24,24	0,-24
+51.503	-1.992	lyneham	LYNEHAM (00886) wiltshire lat: 51.503, long: -1.992, ele: 145 [active: 1957-2017]	img/hourly-rain.png	24,24	0,-24
+51.202	-1.806	larkhill	LARKHILL (00888) wiltshire lat: 51.202, long: -1.806, ele: 132 [active: 1995-2017]	img/hourly-rain.png	24,24	0,-24
+51.162	-1.755	boscombe-down	BOSCOMBE DOWN (00889) wiltshire lat: 51.162, long: -1.755, ele: 126 [active: 1957-2017]	img/hourly-rain.png	24,24	0,-24
+51.292	-1.776	upavon	UPAVON (00890) wiltshire lat: 51.292, long: -1.776, ele: 179 [active: 1957-1988]	img/hourly-rain.png	24,24	0,-24
+55.674	-6.511	orsay	ORSAY (00896) argyll-in-strathclyde-region lat: 55.674, long: -6.511, ele: 23 [active: 1992-1998]	img/hourly-rain.png	24,24	0,-24
+55.936	-6.125	rhuvaal	RHUVAAL (00897) argyll-in-strathclyde-region lat: 55.936, long: -6.125, ele: 20 [active: 1957-1982]	img/hourly-rain.png	24,24	0,-24
+55.441	-5.697	machrihanish	MACHRIHANISH (00908) argyll-in-strathclyde-region lat: 55.441, long: -5.697, ele: 10 [active: 1965-2017]	img/hourly-rain.png	24,24	0,-24
+56.45	-5.44	dunstaffnage	DUNSTAFFNAGE (00918) argyll-in-strathclyde-region lat: 56.45, long: -5.44, ele: 3 [active: 1980-2017]	img/hourly-rain.png	24,24	0,-24
+56.028	-4.985	benmore-younger-botanic-garden	BENMORE, YOUNGER BOTANIC GARDEN (00926) argyll-in-strathclyde-region lat: 56.028, long: -4.985, ele: 12 [active: 1997-2005]	img/hourly-rain.png	24,24	0,-24
+55.749	-4.908	gt-cumbrae-millport	GT CUMBRAE: MILLPORT (00940) buteshire lat: 55.749, long: -4.908, ele: 5 [active: 2010-2017]	img/hourly-rain.png	24,24	0,-24
+56.251	-4.712	sloy	SLOY (00946) dunbartonshire lat: 56.251, long: -4.712, ele: 12 [active: 1980-2006]	img/hourly-rain.png	24,24	0,-24
+56.119	-3.919	stirling-s-wks	STIRLING S WKS (00956) stirling-in-central-region lat: 56.119, long: -3.919, ele: 7 [active: 1983-1999]	img/hourly-rain.png	24,24	0,-24
+55.867	-4.386	renfrew	RENFREW (00970) renfrewshire lat: 55.867, long: -4.386, ele: 8 [active: 1930-1966]	img/hourly-rain.png	24,24	0,-24
+55.869	-4.431	abbotsinch	ABBOTSINCH (00971) renfrewshire lat: 55.869, long: -4.431, ele: 5 [active: 1966-1999]	img/hourly-rain.png	24,24	0,-24
+55.86	-4.264	glasgow-weather-centre	GLASGOW WEATHER CENTRE (00975) lanarkshire lat: 55.86, long: -4.264, ele: 40 [active: 1974-1985]	img/hourly-rain.png	24,24	0,-24
+55.755	-4.172	east-kilbride-no-2	EAST KILBRIDE NO 2 (00978) lanarkshire lat: 55.755, long: -4.172, ele: 178 [active: 1980-2005]	img/hourly-rain.png	24,24	0,-24
+55.861	-3.875	salsburgh	SALSBURGH (00982) lanarkshire lat: 55.861, long: -3.875, ele: 277 [active: 1994-2017]	img/hourly-rain.png	24,24	0,-24
+55.627	-3.736	drumalbin	DRUMALBIN (00987) lanarkshire lat: 55.627, long: -3.736, ele: 245 [active: 1991-2017]	img/hourly-rain.png	24,24	0,-24
+55.7	-3.634	carnwath	CARNWATH (00991) lanarkshire lat: 55.7, long: -3.634, ele: 208 [active: 1980-2005]	img/hourly-rain.png	24,24	0,-24
+55.723	-4.893	hunterston-no-3	HUNTERSTON NO 3 (00996) ayrshire lat: 55.723, long: -4.893, ele: 8 [active: 1997-2005]	img/hourly-rain.png	24,24	0,-24
+55.477	-4.565	auchincruive	AUCHINCRUIVE (01005) ayrshire lat: 55.477, long: -4.565, ele: 48 [active: 2005-2017]	img/hourly-rain.png	24,24	0,-24
+55.501	-4.584	prestwick-no-2	PRESTWICK NO 2 (01006) ayrshire lat: 55.501, long: -4.584, ele: 16 [active: 1962-1993]	img/hourly-rain.png	24,24	0,-24
+55.515	-4.585	prestwick-gannet	PRESTWICK, GANNET (01007) ayrshire lat: 55.515, long: -4.585, ele: 27 [active: 1994-2017]	img/hourly-rain.png	24,24	0,-24
+55.601	-4.226	saughall	SAUGHALL (01013) ayrshire lat: 55.601, long: -4.226, ele: 221 [active: 1995-2014]	img/hourly-rain.png	24,24	0,-24
+55.054	-3.645	dumfries-drungans	DUMFRIES, DRUNGANS (01015) kirkcudbrightshire lat: 55.054, long: -3.645, ele: 16 [active: 1983-2004]	img/hourly-rain.png	24,24	0,-24
+55.312	-3.207	eskdalemuir	ESKDALEMUIR (01023) dumfriesshire lat: 55.312, long: -3.207, ele: 236 [active: 1954-2017]	img/hourly-rain.png	24,24	0,-24
+55.099	-4.185	glenlee	GLENLEE (01027) kirkcudbrightshire lat: 55.099, long: -4.185, ele: 55 [active: 1980-2002]	img/hourly-rain.png	24,24	0,-24
+54.803	-4.008	dundrennan	DUNDRENNAN (01033) kirkcudbrightshire lat: 54.803, long: -4.008, ele: 113 [active: 1990-2017]	img/hourly-rain.png	24,24	0,-24
+54.926	-3.95	threave	THREAVE (01035) kirkcudbrightshire lat: 54.926, long: -3.95, ele: 73 [active: 2005-2017]	img/hourly-rain.png	24,24	0,-24
+54.859	-4.935	west-freugh	WEST FREUGH (01039) wigtownshire lat: 54.859, long: -4.935, ele: 11 [active: 1961-2017]	img/hourly-rain.png	24,24	0,-24
+54.635	-4.857	mull-of-galloway	MULL OF GALLOWAY (01041) wigtownshire lat: 54.635, long: -4.857, ele: 78 [active: 1957-1988]	img/hourly-rain.png	24,24	0,-24
+54.703	-4.418	whithorn	WHITHORN (01043) wigtownshire lat: 54.703, long: -4.418, ele: 40 [active: 1982-1994]	img/hourly-rain.png	24,24	0,-24
+54.325	-3.408	eskmeals	ESKMEALS (01054) cumbria lat: 54.325, long: -3.408, ele: 8 [active: 1994-2001]	img/hourly-rain.png	24,24	0,-24
+54.518	-3.615	st-bees-head-no-2	ST BEES HEAD NO 2 (01055) cumbria lat: 54.518, long: -3.615, ele: 124 [active: 1992-2017]	img/hourly-rain.png	24,24	0,-24
+54.614	-3.157	keswick	KESWICK (01060) cumbria lat: 54.614, long: -3.157, ele: 81 [active: 1992-2017]	img/hourly-rain.png	24,24	0,-24
+54.768	-3.316	aspatria	ASPATRIA (01061) cumbria lat: 54.768, long: -3.316, ele: 62 [active: 1979-2004]	img/hourly-rain.png	24,24	0,-24
+54.932	-3.159	drumburgh	DRUMBURGH (01066) cumbria lat: 54.932, long: -3.159, ele: 7 [active: 1995-2003]	img/hourly-rain.png	24,24	0,-24
+54.62	-3.08	blencathra	BLENCATHRA (01067) cumbria lat: 54.62, long: -3.08, ele: 250 [active: 2010-2017]	img/hourly-rain.png	24,24	0,-24
+54.934	-2.964	carlisle	CARLISLE (01070) cumbria lat: 54.934, long: -2.964, ele: 28 [active: 1961-2017]	img/hourly-rain.png	24,24	0,-24
+54.669	-2.705	whins-pond	WHINS POND (01071) cumbria lat: 54.669, long: -2.705, ele: 125 [active: 1989-1994]	img/hourly-rain.png	24,24	0,-24
+54.67	-2.788	newton-rigg	NEWTON RIGG (01073) cumbria lat: 54.67, long: -2.788, ele: 169 [active: 2010-2017]	img/hourly-rain.png	24,24	0,-24
+54.572	-2.413	warcop-range	WARCOP RANGE (01074) cumbria lat: 54.572, long: -2.413, ele: 227 [active: 1992-2017]	img/hourly-rain.png	24,24	0,-24
+55.05	-2.554	spadeadam-no-2	SPADEADAM NO 2 (01076) cumbria lat: 55.05, long: -2.554, ele: 285 [active: 1992-2017]	img/hourly-rain.png	24,24	0,-24
+54.125	-3.258	walney-island	WALNEY ISLAND (01078) cumbria lat: 54.125, long: -3.258, ele: 15 [active: 1992-2017]	img/hourly-rain.png	24,24	0,-24
+54.259	-2.778	levens-hall	LEVENS HALL (01080) cumbria lat: 54.259, long: -2.778, ele: 7 [active: 2010-2017]	img/hourly-rain.png	24,24	0,-24
+54.502	-2.685	shap	SHAP (01083) cumbria lat: 54.502, long: -2.685, ele: 252 [active: 1992-2017]	img/hourly-rain.png	24,24	0,-24
+54.684	-2.45	great-dun-fell	GREAT DUN FELL (01084) cumbria lat: 54.684, long: -2.45, ele: 847 [active: 1997-1997]	img/hourly-rain.png	24,24	0,-24
+53.775	-3.038	blackpool-squires-gate	BLACKPOOL, SQUIRES GATE (01090) lancashire lat: 53.775, long: -3.038, ele: 10 [active: 1957-2017]	img/hourly-rain.png	24,24	0,-24
+53.55	-2.916	aughton	AUGHTON (01096) lancashire lat: 53.55, long: -2.916, ele: 54 [active: 1978-1996]	img/hourly-rain.png	24,24	0,-24
+53.774	-2.705	preston-moor-park	PRESTON, MOOR PARK (01111) lancashire lat: 53.774, long: -2.705, ele: 33 [active: 2009-2017]	img/hourly-rain.png	24,24	0,-24
+53.854	-2.767	myerscough	MYERSCOUGH (01112) lancashire lat: 53.854, long: -2.767, ele: 14 [active: 2010-2017]	img/hourly-rain.png	24,24	0,-24
+53.845	-2.47	stonyhurst	STONYHURST (01119) lancashire lat: 53.845, long: -2.47, ele: 115 [active: 2000-2017]	img/hourly-rain.png	24,24	0,-24
+53.609	-2.179	rochdale	ROCHDALE (01125) greater-manchester lat: 53.609, long: -2.179, ele: 110 [active: 2007-2017]	img/hourly-rain.png	24,24	0,-24
+53.4	-3.075	bidston	BIDSTON (01128) merseyside lat: 53.4, long: -3.075, ele: 60 [active: 1930-1935]	img/hourly-rain.png	24,24	0,-24
+53.086	-2.526	nantwich-reaseheath-hall	NANTWICH, REASEHEATH HALL (01132) cheshire lat: 53.086, long: -2.526, ele: 40 [active: 2011-2017]	img/hourly-rain.png	24,24	0,-24
+53.356	-2.281	ringway	RINGWAY (01135) greater-manchester lat: 53.356, long: -2.281, ele: 69 [active: 1989-2004]	img/hourly-rain.png	24,24	0,-24
+53.259	-3.509	rhyl-no-2	RHYL NO 2 (01137) clwyd lat: 53.259, long: -3.509, ele: 77 [active: 1992-2017]	img/hourly-rain.png	24,24	0,-24
+53.314	-3.501	rhyl	RHYL (01139) clwyd lat: 53.314, long: -3.501, ele: 9 [active: 1915-1926]	img/hourly-rain.png	24,24	0,-24
+53.22	-3.209	moel-y-crio	MOEL-Y-CRIO (01142) clwyd lat: 53.22, long: -3.209, ele: 263 [active: 1995-2005]	img/hourly-rain.png	24,24	0,-24
+53.175	-2.986	hawarden-airport	HAWARDEN AIRPORT (01144) clwyd lat: 53.175, long: -2.986, ele: 11 [active: 1992-2017]	img/hourly-rain.png	24,24	0,-24
+53.253	-4.536	valley	VALLEY (01145) gwynedd lat: 53.253, long: -4.536, ele: 10 [active: 1988-2017]	img/hourly-rain.png	24,24	0,-24
+54.07	-1.771	pateley-bridge-ravens-nest	PATELEY BRIDGE, RAVENS NEST (25726) north-yorkshire lat: 54.07, long: -1.771, ele: 259 [active: 2011-2017]	img/hourly-rain.png	24,24	0,-24
+52.686	1.687	hemsby-trial	HEMSBY TRIAL (25728) norfolk lat: 52.686, long: 1.687, ele: 14 [active: 2000-2001]	img/hourly-rain.png	24,24	0,-24
+52.75	-4.799	bardsey-island	BARDSEY ISLAND (01158) gwynedd lat: 52.75, long: -4.799, ele: 15 [active: 1972-1987]	img/hourly-rain.png	24,24	0,-24
+52.789	-4.741	aberdaron	ABERDARON (01161) gwynedd lat: 52.789, long: -4.741, ele: 95 [active: 1993-2017]	img/hourly-rain.png	24,24	0,-24
+52.915	-4.158	porthmadog	PORTHMADOG (01166) gwynedd lat: 52.915, long: -4.158, ele: 7 [active: 2010-2017]	img/hourly-rain.png	24,24	0,-24
+53.068	-4.077	snowdon-summit	SNOWDON SUMMIT (01167) gwynedd lat: 53.068, long: -4.077, ele: 1040 [active: 1996-1997]	img/hourly-rain.png	24,24	0,-24
+53.094	-3.941	capel-curig-no-3	CAPEL CURIG NO 3 (01171) gwynedd lat: 53.094, long: -3.941, ele: 216 [active: 1993-2017]	img/hourly-rain.png	24,24	0,-24
+52.995	-4.082	nantmor	NANTMOR (01179) gwynedd lat: 52.995, long: -4.082, ele: 49 [active: 1994-2002]	img/hourly-rain.png	24,24	0,-24
+52.908	-3.584	bala	BALA (01180) gwynedd lat: 52.908, long: -3.584, ele: 163 [active: 1997-2017]	img/hourly-rain.png	24,24	0,-24
+52.951	-3.407	cynwyd	CYNWYD (01183) clwyd lat: 52.951, long: -3.407, ele: 227 [active: 1994-2003]	img/hourly-rain.png	24,24	0,-24
+52.565	-3.712	aberhosan-rhoswydol	ABERHOSAN, RHOSWYDOL (01184) powys-north lat: 52.565, long: -3.712, ele: 244 [active: 1994-2003]	img/hourly-rain.png	24,24	0,-24
+52.757	-3.465	lake-vyrnwy-no-2	LAKE VYRNWY NO 2 (01190) powys-north lat: 52.757, long: -3.465, ele: 360 [active: 1994-2017]	img/hourly-rain.png	24,24	0,-24
+52.14	-4.571	aberporth	ABERPORTH (01198) dyfed lat: 52.14, long: -4.571, ele: 133 [active: 1957-2017]	img/hourly-rain.png	24,24	0,-24
+52.272	-3.916	swyddffynnon	SWYDDFFYNNON (01204) dyfed lat: 52.272, long: -3.916, ele: 168 [active: 2012-2017]	img/hourly-rain.png	24,24	0,-24
+52.432	-4.02	gogerddan	GOGERDDAN (01205) dyfed lat: 52.432, long: -4.02, ele: 31 [active: 2011-2017]	img/hourly-rain.png	24,24	0,-24
+52.344	-3.948	trawsgoed	TRAWSGOED (01209) dyfed lat: 52.344, long: -3.948, ele: 63 [active: 1992-2017]	img/hourly-rain.png	24,24	0,-24
+51.709	-5.053	milford-haven-conservancy-board	MILFORD HAVEN CONSERVANCY BOARD (01215) dyfed lat: 51.709, long: -5.053, ele: 44 [active: 1964-2017]	img/hourly-rain.png	24,24	0,-24
+51.88	-5.124	brawdy	BRAWDY (01216) dyfed lat: 51.88, long: -5.124, ele: 111 [active: 1974-1992]	img/hourly-rain.png	24,24	0,-24
+51.799	-4.967	haverfordwest	HAVERFORDWEST (01220) dyfed lat: 51.799, long: -4.967, ele: 41 [active: 1942-1955]	img/hourly-rain.png	24,24	0,-24
+51.86	-4.922	scolton-country-park	SCOLTON COUNTRY PARK (01221) dyfed lat: 51.86, long: -4.922, ele: 75 [active: 2011-2017]	img/hourly-rain.png	24,24	0,-24
+51.989	-4.679	whitechurch	WHITECHURCH (01223) dyfed lat: 51.989, long: -4.679, ele: 129 [active: 2011-2017]	img/hourly-rain.png	24,24	0,-24
+51.714	-4.367	pembrey-sands	PEMBREY SANDS (01226) dyfed lat: 51.714, long: -4.367, ele: 3 [active: 1993-2017]	img/hourly-rain.png	24,24	0,-24
+51.813	-3.861	brynamman	BRYNAMMAN (01234) dyfed lat: 51.813, long: -3.861, ele: 183 [active: 1969-1985]	img/hourly-rain.png	24,24	0,-24
+51.949	-3.702	trecastle	TRECASTLE (01235) dyfed lat: 51.949, long: -3.702, ele: 312 [active: 1984-1987]	img/hourly-rain.png	24,24	0,-24
+52.216	-3.452	llysdinam	LLYSDINAM (01238) powys-south lat: 52.216, long: -3.452, ele: 196 [active: 2010-2017]	img/hourly-rain.png	24,24	0,-24
+52.383	-3.534	cenarth	CENARTH (01240) powys-south lat: 52.383, long: -3.534, ele: 308 [active: 1976-1980]	img/hourly-rain.png	24,24	0,-24
+52.389	-3.503	cenarth-mill	CENARTH MILL (01241) powys-south lat: 52.389, long: -3.503, ele: 282 [active: 1967-1975]	img/hourly-rain.png	24,24	0,-24
+51.924	-3.489	libanus	LIBANUS (01249) powys-south lat: 51.924, long: -3.489, ele: 331 [active: 2012-2017]	img/hourly-rain.png	24,24	0,-24
+51.566	-3.982	mumbles-head	MUMBLES HEAD (01255) west-glamorgan lat: 51.566, long: -3.982, ele: 43 [active: 1982-2017]	img/hourly-rain.png	24,24	0,-24
+51.401	-3.344	rhoose	RHOOSE (01267) south-glamorgan lat: 51.401, long: -3.344, ele: 65 [active: 1957-1998]	img/hourly-rain.png	24,24	0,-24
+51.636	-3.302	cilfynydd	CILFYNYDD (01268) mid-glamorgan lat: 51.636, long: -3.302, ele: 194 [active: 1974-1996]	img/hourly-rain.png	24,24	0,-24
+51.478	-3.179	cardiff-weather-centre	CARDIFF WEATHER CENTRE (01271) south-glamorgan lat: 51.478, long: -3.179, ele: 52 [active: 1982-2006]	img/hourly-rain.png	24,24	0,-24
+51.488	-3.189	cardiff-bute-park	CARDIFF, BUTE PARK (01272) south-glamorgan lat: 51.488, long: -3.189, ele: 9 [active: 2010-2017]	img/hourly-rain.png	24,24	0,-24
+51.784	-3.268	tredegar-bryn-bach-park-no-2	TREDEGAR, BRYN BACH PARK NO 2 (01276) gwent lat: 51.784, long: -3.268, ele: 360 [active: 2010-2017]	img/hourly-rain.png	24,24	0,-24
+51.087	-3.609	liscombe	LISCOMBE (01285) somerset lat: 51.087, long: -3.609, ele: 348 [active: 1993-2017]	img/hourly-rain.png	24,24	0,-24
+51.094	-3.485	exton	EXTON (01287) somerset lat: 51.094, long: -3.485, ele: 335 [active: 1973-1987]	img/hourly-rain.png	24,24	0,-24
+51.201	-3.467	minehead	MINEHEAD (01288) somerset lat: 51.201, long: -3.467, ele: 8 [active: 1987-1988]	img/hourly-rain.png	24,24	0,-24
+51.201	-3.531	tivington	TIVINGTON (01289) somerset lat: 51.201, long: -3.531, ele: 83 [active: 1989-1998]	img/hourly-rain.png	24,24	0,-24
+51.118	-3.349	nettlecombe-birds-hill	NETTLECOMBE, BIRDS HILL (01290) somerset lat: 51.118, long: -3.349, ele: 271 [active: 2009-2012]	img/hourly-rain.png	24,24	0,-24
+51.006	-2.643	yeovilton	YEOVILTON (01302) somerset lat: 51.006, long: -2.643, ele: 20 [active: 1964-2017]	img/hourly-rain.png	24,24	0,-24
+51.386	-2.355	bath	BATH (01312) avon lat: 51.386, long: -2.355, ele: 20 [active: 1921-1925]	img/hourly-rain.png	24,24	0,-24
+50.566	-2.45	portland	PORTLAND  (01316) dorset lat: 50.566, long: -2.45, ele: 3 [active: 1993-1999]	img/hourly-rain.png	24,24	0,-24
+50.514	-2.457	portland-bill-lighthouse	PORTLAND BILL LIGHTHOUSE (01318) dorset lat: 50.514, long: -2.457, ele: 11 [active: 1957-1968]	img/hourly-rain.png	24,24	0,-24
+50.522	-2.456	isle-of-portland	ISLE OF PORTLAND (01319) dorset lat: 50.522, long: -2.456, ele: 52 [active: 1967-2017]	img/hourly-rain.png	24,24	0,-24
+50.614	-1.959	swanage	SWANAGE (01326) dorset lat: 50.614, long: -1.959, ele: 10 [active: 2011-2017]	img/hourly-rain.png	24,24	0,-24
+50.721	-4.288	virginstow	VIRGINSTOW (01331) devon lat: 50.721, long: -4.288, ele: 168 [active: 1967-1973]	img/hourly-rain.png	24,24	0,-24
+51.02	-4.524	hartland-point	HARTLAND POINT (01332) devon lat: 51.02, long: -4.524, ele: 95 [active: 1957-1983]	img/hourly-rain.png	24,24	0,-24
+50.991	-4.462	hartland	HARTLAND (01333) devon lat: 50.991, long: -4.462, ele: 142 [active: 1983-1988]	img/hourly-rain.png	24,24	0,-24
+51.016	-4.49	gawlish	GAWLISH (01334) devon lat: 51.016, long: -4.49, ele: 122 [active: 1989-2004]	img/hourly-rain.png	24,24	0,-24
+51.161	-4.656	lundy	LUNDY (01335) devon lat: 51.161, long: -4.656, ele: 43 [active: 1984-1994]	img/hourly-rain.png	24,24	0,-24
+50.355	-4.121	plymouth-mountbatten	PLYMOUTH, MOUNTBATTEN (01336) devon lat: 50.355, long: -4.121, ele: 50 [active: 1930-2017]	img/hourly-rain.png	24,24	0,-24
+51.118	-4.221	saunton-sands	SAUNTON SANDS (01343) devon lat: 51.118, long: -4.221, ele: 15 [active: 1989-2002]	img/hourly-rain.png	24,24	0,-24
+50.703	-3.977	okehampton-east-okement-farm	OKEHAMPTON, EAST OKEMENT FARM (01345) devon lat: 50.703, long: -3.977, ele: 408 [active: 2006-2017]	img/hourly-rain.png	24,24	0,-24
+51.089	-4.149	chivenor	CHIVENOR (01346) devon lat: 51.089, long: -4.149, ele: 6 [active: 1980-2017]	img/hourly-rain.png	24,24	0,-24
+50.549	-4.001	princetown-prison	PRINCETOWN, PRISON (01350) devon lat: 50.549, long: -4.001, ele: 453 [active: 1986-2001]	img/hourly-rain.png	24,24	0,-24
+50.769	-3.904	north-wyke	NORTH WYKE (01352) devon lat: 50.769, long: -3.904, ele: 177 [active: 2000-2017]	img/hourly-rain.png	24,24	0,-24
+50.933	-3.987	burrington-common-head	BURRINGTON, COMMON HEAD (01353) devon lat: 50.933, long: -3.987, ele: 199 [active: 1995-1995]	img/hourly-rain.png	24,24	0,-24
+50.203	-3.721	prawle-point	PRAWLE POINT (01354) devon lat: 50.203, long: -3.721, ele: 59 [active: 1971-1974]	img/hourly-rain.png	24,24	0,-24
+50.896	-3.812	chawleigh	CHAWLEIGH (01358) devon lat: 50.896, long: -3.812, ele: 168 [active: 1980-1982]	img/hourly-rain.png	24,24	0,-24
+50.906	-3.802	cheldon-barton	CHELDON BARTON (01359) devon lat: 50.906, long: -3.802, ele: 163 [active: 1968-1974]	img/hourly-rain.png	24,24	0,-24
+50.623	-3.394	exmouth-salterton-road	EXMOUTH, SALTERTON ROAD (01376) devon lat: 50.623, long: -3.394, ele: 59 [active: 1936-1958]	img/hourly-rain.png	24,24	0,-24
+50.731	-3.417	exeter-airport	EXETER AIRPORT (01378) devon lat: 50.731, long: -3.417, ele: 27 [active: 1957-1991]	img/hourly-rain.png	24,24	0,-24
+50.86	-3.24	dunkeswell-aerodrome	DUNKESWELL AERODROME (01383) devon lat: 50.86, long: -3.24, ele: 252 [active: 1991-2017]	img/hourly-rain.png	24,24	0,-24
+49.929	-6.303	scilly-st-marys	SCILLY: ST MARYS (01385) isles-of-scilly lat: 49.929, long: -6.303, ele: 51 [active: 1930-1982]	img/hourly-rain.png	24,24	0,-24
+49.915	-6.296	scilly-st-marys-airport	SCILLY: ST MARYS AIRPORT (01386) isles-of-scilly lat: 49.915, long: -6.296, ele: 31 [active: 1991-2017]	img/hourly-rain.png	24,24	0,-24
+50.037	-5.681	gwennap-head	GWENNAP HEAD (01388) cornwall lat: 50.037, long: -5.681, ele: 66 [active: 1971-1992]	img/hourly-rain.png	24,24	0,-24
+50.118	-5.543	penzance-penlee-gardens	PENZANCE, PENLEE GARDENS (01389) cornwall lat: 50.118, long: -5.543, ele: 19 [active: 1915-1925]	img/hourly-rain.png	24,24	0,-24
+50.084	-5.257	culdrose	CULDROSE (01393) cornwall lat: 50.084, long: -5.257, ele: 76 [active: 1977-2017]	img/hourly-rain.png	24,24	0,-24
+50.218	-5.328	camborne	CAMBORNE (01395) cornwall lat: 50.218, long: -5.328, ele: 87 [active: 1978-2017]	img/hourly-rain.png	24,24	0,-24
+50.145	-5.045	pendennis-point	PENDENNIS POINT (01400) cornwall lat: 50.145, long: -5.045, ele: 42 [active: 2003-2003]	img/hourly-rain.png	24,24	0,-24
+50.412	-5.081	newquay	NEWQUAY (01402) cornwall lat: 50.412, long: -5.081, ele: 53 [active: 1920-1925]	img/hourly-rain.png	24,24	0,-24
+50.439	-4.998	st-mawgan	ST MAWGAN (01405) cornwall lat: 50.439, long: -4.998, ele: 103 [active: 1957-2008]	img/hourly-rain.png	24,24	0,-24
+50.502	-4.667	cardinham-bodmin	CARDINHAM, BODMIN (01415) cornwall lat: 50.502, long: -4.667, ele: 200 [active: 1991-2017]	img/hourly-rain.png	24,24	0,-24
+50.562	-4.481	bastreet	BASTREET (01417) cornwall lat: 50.562, long: -4.481, ele: 233 [active: 1996-2000]	img/hourly-rain.png	24,24	0,-24
+50.829	-4.546	bude	BUDE (01418) cornwall lat: 50.829, long: -4.546, ele: 15 [active: 2011-2017]	img/hourly-rain.png	24,24	0,-24
+49.979	-6.323	scilly-round-island	SCILLY: ROUND ISLAND (01421) isles-of-scilly lat: 49.979, long: -6.323, ele: 38 [active: 1985-1985]	img/hourly-rain.png	24,24	0,-24
+55.025	-7.211	carmoney	CARMONEY (01427) londonderry lat: 55.025, long: -7.211, ele: 73 [active: 1997-1997]	img/hourly-rain.png	24,24	0,-24
+55.057	-7.008	ballykelly	BALLYKELLY (01429) londonderry lat: 55.057, long: -7.008, ele: 4 [active: 1957-2012]	img/hourly-rain.png	24,24	0,-24
+54.886	-6.966	banagher-caugh-hill	BANAGHER, CAUGH HILL (01431) londonderry lat: 54.886, long: -6.966, ele: 214 [active: 1997-2017]	img/hourly-rain.png	24,24	0,-24
+54.721	-6.815	lough-fea	LOUGH FEA (01435) londonderry lat: 54.721, long: -6.815, ele: 225 [active: 1994-2017]	img/hourly-rain.png	24,24	0,-24
+55.154	-6.678	coleraine-university	COLERAINE UNIVERSITY (01437) londonderry lat: 55.154, long: -6.678, ele: 23 [active: 1997-2003]	img/hourly-rain.png	24,24	0,-24
+54.993	-6.61	moneydig	MONEYDIG (01440) londonderry lat: 54.993, long: -6.61, ele: 34 [active: 1968-1968]	img/hourly-rain.png	24,24	0,-24
+54.743	-6.518	moyola-w-wks	MOYOLA W WKS (01441) londonderry lat: 54.743, long: -6.518, ele: 17 [active: 1993-2004]	img/hourly-rain.png	24,24	0,-24
+54.865	-6.458	portglenone	PORTGLENONE (01448) antrim lat: 54.865, long: -6.458, ele: 64 [active: 1994-2017]	img/hourly-rain.png	24,24	0,-24
+54.664	-6.225	aldergrove	ALDERGROVE (01450) antrim lat: 54.664, long: -6.225, ele: 63 [active: 1981-2017]	img/hourly-rain.png	24,24	0,-24
+55.048	-6.255	altnahinch-filters	ALTNAHINCH FILTERS (01452) antrim lat: 55.048, long: -6.255, ele: 213 [active: 1981-2017]	img/hourly-rain.png	24,24	0,-24
+55.181	-6.154	ballypatrick-forest	BALLYPATRICK FOREST (01467) antrim lat: 55.181, long: -6.154, ele: 156 [active: 1991-2017]	img/hourly-rain.png	24,24	0,-24
+54.206	-6.351	newry-carnbane	NEWRY CARNBANE (01487) down lat: 54.206, long: -6.351, ele: 8 [active: 2000-2007]	img/hourly-rain.png	24,24	0,-24
+54.077	-6.184	killowen	KILLOWEN (01488) down lat: 54.077, long: -6.184, ele: 4 [active: 2000-2017]	img/hourly-rain.png	24,24	0,-24
+54.485	-6.098	hillsborough-met-office	HILLSBOROUGH MET OFFICE (01490) down lat: 54.485, long: -6.098, ele: 38 [active: 1979-2003]	img/hourly-rain.png	24,24	0,-24
+54.245	-5.832	murlough	MURLOUGH (01502) down lat: 54.245, long: -5.832, ele: 12 [active: 2009-2017]	img/hourly-rain.png	24,24	0,-24
+54.297	-6.111	katesbridge	KATESBRIDGE (01504) down lat: 54.297, long: -6.111, ele: 91 [active: 2000-2017]	img/hourly-rain.png	24,24	0,-24
+54.603	-5.83	stormont-castle	STORMONT CASTLE (01507) down lat: 54.603, long: -5.83, ele: 56 [active: 2009-2017]	img/hourly-rain.png	24,24	0,-24
+54.572	-5.657	ballywatticock	BALLYWATTICOCK (01517) down lat: 54.572, long: -5.657, ele: 6 [active: 1980-2017]	img/hourly-rain.png	24,24	0,-24
+54.669	-5.748	helens-bay	HELENS BAY (01523) down lat: 54.669, long: -5.748, ele: 43 [active: 2002-2017]	img/hourly-rain.png	24,24	0,-24
+54.243	-5.638	killough	KILLOUGH (01525) down lat: 54.243, long: -5.638, ele: 15 [active: 1994-1998]	img/hourly-rain.png	24,24	0,-24
+54.414	-5.539	lough-cowey	LOUGH COWEY (01526) down lat: 54.414, long: -5.539, ele: 10 [active: 1984-1984]	img/hourly-rain.png	24,24	0,-24
+54.352	-6.65	armagh	ARMAGH (01530) armagh lat: 54.352, long: -6.65, ele: 62 [active: 2018-2017]	img/hourly-rain.png	24,24	0,-24
+54.237	-6.503	glenanne-no-2	GLENANNE NO 2 (01534) armagh lat: 54.237, long: -6.503, ele: 161 [active: 1992-2017]	img/hourly-rain.png	24,24	0,-24
+54.707	-7.577	castlederg	CASTLEDERG (01543) tyrone lat: 54.707, long: -7.577, ele: 49 [active: 1995-2017]	img/hourly-rain.png	24,24	0,-24
+54.422	-8.087	knockarevan	KNOCKAREVAN (01561) fermanagh lat: 54.422, long: -8.087, ele: 50 [active: 1992-1992]	img/hourly-rain.png	24,24	0,-24
+54.44	-8.052	corgary	CORGARY (01562) fermanagh lat: 54.44, long: -8.052, ele: 145 [active: 1984-1984]	img/hourly-rain.png	24,24	0,-24
+54.396	-7.645	st-angelo	ST ANGELO (01568) fermanagh lat: 54.396, long: -7.645, ele: 47 [active: 1991-2013]	img/hourly-rain.png	24,24	0,-24
+54.264	-7.477	lisnaskea-creamery	LISNASKEA CREAMERY (01570) fermanagh lat: 54.264, long: -7.477, ele: 49 [active: 1997-2000]	img/hourly-rain.png	24,24	0,-24
+53.088	0.271	wainfleet-no-2	WAINFLEET NO 2 (16725) lincolnshire lat: 53.088, long: 0.271, ele: 3 [active: 1996-2017]	img/hourly-rain.png	24,24	0,-24
+51.948	-1.954	winchcombe-sudeley-castle	WINCHCOMBE, SUDELEY CASTLE (10268) gloucestershire lat: 51.948, long: -1.954, ele: 112 [active: 2010-2017]	img/hourly-rain.png	24,24	0,-24
+58.568	-4.763	durness-no-3	DURNESS NO 3 (24938) sutherland lat: 58.568, long: -4.763, ele: 222 [active: 1999-2002]	img/hourly-rain.png	24,24	0,-24
+50.938	-0.494	wiggonholt	WIGGONHOLT (16769) west-sussex lat: 50.938, long: -0.494, ele: 28 [active: 2011-2017]	img/hourly-rain.png	24,24	0,-24
+50.366	-4.168	mount-wise-met-office	MOUNT WISE MET OFFICE (16789) devon lat: 50.366, long: -4.168, ele: 22 [active: 1946-1948]	img/hourly-rain.png	24,24	0,-24
+57.358	-7.385	south-uist-range	SOUTH UIST RANGE (18903) western-isles lat: 57.358, long: -7.385, ele: 4 [active: 1996-2017]	img/hourly-rain.png	24,24	0,-24
+52.08	-2.802	hereford-credenhill	HEREFORD, CREDENHILL (24996) hereford-and-worcester lat: 52.08, long: -2.802, ele: 76 [active: 1999-2017]	img/hourly-rain.png	24,24	0,-24
+56.5	-6.881	tiree	TIREE (18974) argyll-in-strathclyde-region lat: 56.5, long: -6.881, ele: 9 [active: 1930-2017]	img/hourly-rain.png	24,24	0,-24
+52.412	-4.083	aberystwyth-corporation-yard	ABERYSTWYTH, CORPORATION YARD (16820) dyfed lat: 52.412, long: -4.083, ele: 4 [active: 1916-1925]	img/hourly-rain.png	24,24	0,-24
+57.181	-5.375	achnagart	ACHNAGART (14093) ross-and-cromarty lat: 57.181, long: -5.375, ele: 15 [active: 2012-2017]	img/hourly-rain.png	24,24	0,-24
+53.295	-3.73	colwyn-bay-council-offices	COLWYN BAY, COUNCIL OFFICES (16831) clwyd lat: 53.295, long: -3.73, ele: 25 [active: 1915-1925]	img/hourly-rain.png	24,24	0,-24
+51.522	-0.112	london-weather-centre	LONDON WEATHER CENTRE (19144) greater-london lat: 51.522, long: -0.112, ele: 43 [active: 1974-2010]	img/hourly-rain.png	24,24	0,-24
+51.52	-1.549	upper-lambourn	UPPER LAMBOURN (19159) berkshire lat: 51.52, long: -1.549, ele: 142 [active: 2012-2017]	img/hourly-rain.png	24,24	0,-24
+57.257	-5.805	skye-lusa	SKYE: LUSA (19172) western-isles lat: 57.257, long: -5.805, ele: 18 [active: 1997-2017]	img/hourly-rain.png	24,24	0,-24
+52.48	-1.691	coleshill	COLESHILL (19187) warwickshire lat: 52.48, long: -1.691, ele: 96 [active: 1997-2017]	img/hourly-rain.png	24,24	0,-24
+51.896	0.451	andrewsfield	ANDREWSFIELD (19188) essex lat: 51.896, long: 0.451, ele: 87 [active: 1997-2017]	img/hourly-rain.png	24,24	0,-24
+54.817	-6.005	killylane	KILLYLANE (19192) antrim lat: 54.817, long: -6.005, ele: 250 [active: 2011-2017]	img/hourly-rain.png	24,24	0,-24
+56.72	-3.52	kirkmichael-no-2	KIRKMICHAEL NO 2 (19202) perthshire-in-tayside-region lat: 56.72, long: -3.52, ele: 265 [active: 1998-1998]	img/hourly-rain.png	24,24	0,-24
+54.649	-3.459	bridgefoot	BRIDGEFOOT (19203) cumbria lat: 54.649, long: -3.459, ele: 49 [active: 2010-2017]	img/hourly-rain.png	24,24	0,-24
+53.406	-0.884	gringley-on-the-hill	GRINGLEY-ON-THE-HILL (19204) nottinghamshire lat: 53.406, long: -0.884, ele: 68 [active: 2010-2017]	img/hourly-rain.png	24,24	0,-24
+51.405	-3.441	st-athan	ST ATHAN (19206) south-glamorgan lat: 51.405, long: -3.441, ele: 49 [active: 1997-2017]	img/hourly-rain.png	24,24	0,-24
+57.78	-6.897	harris-quidnish	HARRIS: QUIDNISH (19211) western-isles lat: 57.78, long: -6.897, ele: 13 [active: 2010-2017]	img/hourly-rain.png	24,24	0,-24
+55.613	-3.564	biggar-east-netherton	BIGGAR, EAST NETHERTON (19219) lanarkshire lat: 55.613, long: -3.564, ele: 200 [active: 1998-2004]	img/hourly-rain.png	24,24	0,-24
+52.803	-4.124	llanbedr	LLANBEDR (19241) gwynedd lat: 52.803, long: -4.124, ele: 9 [active: 1998-2004]	img/hourly-rain.png	24,24	0,-24
+55.047	-3.589	dumfries-crichton-royal-no-2	DUMFRIES, CRICHTON ROYAL NO 2 (19259) dumfriesshire lat: 55.047, long: -3.589, ele: 50 [active: 2002-2004]	img/hourly-rain.png	24,24	0,-24
+55.928	-3.344	edinburgh-gogarbank	EDINBURGH, GOGARBANK (19260) midlothian-in-lothian-region lat: 55.928, long: -3.344, ele: 57 [active: 1998-2017]	img/hourly-rain.png	24,24	0,-24
+51.671	-4.699	tenby-priory	TENBY, PRIORY (11169) dyfed lat: 51.671, long: -4.699, ele: 20 [active: 1921-1926]	img/hourly-rain.png	24,24	0,-24
+52.457	1.162	tibenham-airfield	TIBENHAM AIRFIELD (61986) norfolk lat: 52.457, long: 1.162, ele: 52 [active: 2015-2017]	img/hourly-rain.png	24,24	0,-24
+50.737	-3.406	exeter-airport-no-2	EXETER AIRPORT NO 2 (62041) devon lat: 50.737, long: -3.406, ele: 27 [active: 2009-2017]	img/hourly-rain.png	24,24	0,-24
+51.682	-0.807	high-wycombe-hqair	HIGH WYCOMBE, HQAIR (17176) buckinghamshire lat: 51.682, long: -0.807, ele: 204 [active: 1995-2017]	img/hourly-rain.png	24,24	0,-24
+52.678	1.28	norwich-airport	NORWICH AIRPORT (04911) norfolk lat: 52.678, long: 1.28, ele: 32 [active: 2007-2016]	img/hourly-rain.png	24,24	0,-24
+54.743	-4.959	logan-botanic-garden	LOGAN BOTANIC GARDEN (13343) wigtownshire lat: 54.743, long: -4.959, ele: 27 [active: 2012-2017]	img/hourly-rain.png	24,24	0,-24
+55.208	-6.656	portrush	PORTRUSH (17292) antrim lat: 55.208, long: -6.656, ele: 8 [active: 1996-2001]	img/hourly-rain.png	24,24	0,-24
+57.206	-3.828	aviemore-trial	AVIEMORE TRIAL (30103) inverness-shire lat: 57.206, long: -3.828, ele: 228 [active: 2000-2001]	img/hourly-rain.png	24,24	0,-24
+53.497	-3.058	crosby	CROSBY (17309) merseyside lat: 53.497, long: -3.058, ele: 9 [active: 1983-2017]	img/hourly-rain.png	24,24	0,-24
+54.297	-1.533	leeming	LEEMING (17314) north-yorkshire lat: 54.297, long: -1.533, ele: 33 [active: 1965-2017]	img/hourly-rain.png	24,24	0,-24
+54.563	-0.864	loftus	LOFTUS (17344) cleveland lat: 54.563, long: -0.864, ele: 158 [active: 1996-2017]	img/hourly-rain.png	24,24	0,-24
+54.151	-7.575	derrylin	DERRYLIN (30437) fermanagh lat: 54.151, long: -7.575, ele: 70 [active: 2004-2007]	img/hourly-rain.png	24,24	0,-24
+52.824	0.652	houghton-hall	HOUGHTON HALL (30476) norfolk lat: 52.824, long: 0.652, ele: 65 [active: 2010-2017]	img/hourly-rain.png	24,24	0,-24
+57.401	-5.494	lochcarron	LOCHCARRON (14108) ross-and-cromarty lat: 57.401, long: -5.494, ele: 32 [active: 1999-2003]	img/hourly-rain.png	24,24	0,-24
+55.02	-1.882	albemarle	ALBEMARLE (30523) northumberland lat: 55.02, long: -1.882, ele: 142 [active: 2003-2017]	img/hourly-rain.png	24,24	0,-24
+52.623	-1.396	market-bosworth-bosworth-park	MARKET BOSWORTH, BOSWORTH PARK (30529) leicestershire lat: 52.623, long: -1.396, ele: 129 [active: 2010-2017]	img/hourly-rain.png	24,24	0,-24
+51.144	-0.229	charlwood	CHARLWOOD (30620) surrey lat: 51.144, long: -0.229, ele: 67 [active: 2002-2017]	img/hourly-rain.png	24,24	0,-24
+53.128	-1.981	leek-thorncliffe	LEEK, THORNCLIFFE (30690) staffordshire lat: 53.128, long: -1.981, ele: 298 [active: 2002-2017]	img/hourly-rain.png	24,24	0,-24
+54.472	-1.785	ravensworth	RAVENSWORTH (30750) north-yorkshire lat: 54.472, long: -1.785, ele: 120 [active: 2010-2017]	img/hourly-rain.png	24,24	0,-24
+57.622	-4.82	lochluichart	LOCHLUICHART (14533) ross-and-cromarty lat: 57.622, long: -4.82, ele: 88 [active: 1999-2003]	img/hourly-rain.png	24,24	0,-24
+53.339	-2.155	woodford	WOODFORD (55511) cheshire lat: 53.339, long: -2.155, ele: 88 [active: 2003-2012]	img/hourly-rain.png	24,24	0,-24
+57.698	-2.123	rosehearty	ROSEHEARTY (16581) aberdeenshire lat: 57.698, long: -2.123, ele: 4 [active: 1995-2012]	img/hourly-rain.png	24,24	0,-24
+50.461	-3.526	torquay-cary-green	TORQUAY, CARY GREEN (08401) devon lat: 50.461, long: -3.526, ele: 4 [active: 1920-1926]	img/hourly-rain.png	24,24	0,-24
+55.285	-2.279	redesdale-camp	REDESDALE CAMP (16589) northumberland lat: 55.285, long: -2.279, ele: 211 [active: 1996-2017]	img/hourly-rain.png	24,24	0,-24
+57.011	-3.397	braemar-no-2	BRAEMAR NO 2 (55827) aberdeenshire lat: 57.011, long: -3.397, ele: 327 [active: 2005-2017]	img/hourly-rain.png	24,24	0,-24
+51.478	-0.003	greenwich-observatory	GREENWICH, OBSERVATORY (06706) greater-london lat: 51.478, long: -0.003, ele: 47 [active: 1997-2004]	img/hourly-rain.png	24,24	0,-24
+54.205	-1.39	topcliffe	TOPCLIFFE (16596) north-yorkshire lat: 54.205, long: -1.39, ele: 25 [active: 1997-2017]	img/hourly-rain.png	24,24	0,-24
+51.352	1.348	manston-trial	MANSTON TRIAL (25729) kent lat: 51.352, long: 1.348, ele: 44 [active: 2000-2000]	img/hourly-rain.png	24,24	0,-24
+55.681	-6.25	islay-port-ellen	ISLAY: PORT ELLEN (23417) argyll-in-strathclyde-region lat: 55.681, long: -6.25, ele: 17 [active: 1998-2017]	img/hourly-rain.png	24,24	0,-24
+51.215	-0.137	redhill	REDHILL (23446) surrey lat: 51.215, long: -0.137, ele: 63 [active: 1998-2006]	img/hourly-rain.png	24,24	0,-24
+58.063	-5.016	resallach	RESALLACH (56216) sutherland lat: 58.063, long: -5.016, ele: 133 [active: 2011-2017]	img/hourly-rain.png	24,24	0,-24
+51.066	0.033	wych-cross	WYCH CROSS (23450) east-sussex lat: 51.066, long: 0.033, ele: 200 [active: 2010-2017]	img/hourly-rain.png	24,24	0,-24
+52.456	-1.928	winterbourne-no2	WINTERBOURNE NO2 (56424) west-midlands lat: 52.456, long: -1.928, ele: 140 [active: 2011-2017]	img/hourly-rain.png	24,24	0,-24
+57.156	-5.182	cluanie-inn-no-3	CLUANIE INN NO 3 (56451) ross-and-cromarty lat: 57.156, long: -5.182, ele: 223 [active: 2009-2017]	img/hourly-rain.png	24,24	0,-24
+53.261	-4.376	mona	MONA (56486) isle-of-anglesey lat: 53.261, long: -4.376, ele: 60 [active: 2009-2017]	img/hourly-rain.png	24,24	0,-24
+52.063	-3.615	sennybridge-no-2	SENNYBRIDGE NO 2 (16611) powys-south lat: 52.063, long: -3.615, ele: 307 [active: 1995-2017]	img/hourly-rain.png	24,24	0,-24
+56.764	-3.397	spittal-of-glenshee	SPITTAL OF GLENSHEE (23943) perthshire-in-tayside-region lat: 56.764, long: -3.397, ele: 308 [active: 1998-1998]	img/hourly-rain.png	24,24	0,-24
+52.424	-1.536	coventry-coundon	COVENTRY, COUNDON (24102) west-midlands lat: 52.424, long: -1.536, ele: 119 [active: 2001-2017]	img/hourly-rain.png	24,24	0,-24
+54.189	-7.561	derrylin-cornahoule	DERRYLIN, CORNAHOULE (24103) fermanagh lat: 54.189, long: -7.561, ele: 68 [active: 2010-2017]	img/hourly-rain.png	24,24	0,-24
+55.907	-4.532	glasgow-bishopton	GLASGOW, BISHOPTON (24125) renfrewshire lat: 55.907, long: -4.532, ele: 59 [active: 1999-2017]	img/hourly-rain.png	24,24	0,-24
+51.142	0.596	frittenden	FRITTENDEN (56904) kent lat: 51.142, long: 0.596, ele: 38 [active: 2011-2017]	img/hourly-rain.png	24,24	0,-24
+55.234	-6.512	giants-causeway	GIANTS CAUSEWAY (56937) antrim lat: 55.234, long: -6.512, ele: 80 [active: 2011-2017]	img/hourly-rain.png	24,24	0,-24
+51.714	-2.923	usk-no-2	USK NO 2 (56939) monmouthshire lat: 51.714, long: -2.923, ele: 25 [active: 2011-2017]	img/hourly-rain.png	24,24	0,-24
+53.612	-1.668	emley-moor-no-2	EMLEY MOOR NO 2 (56958) west-yorkshire lat: 53.612, long: -1.668, ele: 267 [active: 2011-2017]	img/hourly-rain.png	24,24	0,-24
+55.16	-6.949	magilligan-no-2	MAGILLIGAN NO 2 (56963) londonderry lat: 55.16, long: -6.949, ele: 6 [active: 2011-2017]	img/hourly-rain.png	24,24	0,-24
+53.766	-0.298	hull-east-park	HULL, EAST PARK (56986) humberside lat: 53.766, long: -0.298, ele: 2 [active: 2012-2017]	img/hourly-rain.png	24,24	0,-24
+55.53	-1.918	chillingham-barns	CHILLINGHAM BARNS (16031) northumberland lat: 55.53, long: -1.918, ele: 70 [active: 2012-2017]	img/hourly-rain.png	24,24	0,-24
+54.33	-7.595	thomastown	THOMASTOWN (57063) fermanagh lat: 54.33, long: -7.595, ele: 72 [active: 2012-2017]	img/hourly-rain.png	24,24	0,-24
+52.042	-1.013	stowe	STOWE (57093) buckinghamshire lat: 52.042, long: -1.013, ele: 145 [active: 2012-2017]	img/hourly-rain.png	24,24	0,-24
+53.36	-2.382	rostherne	ROSTHERNE (57113) cheshire lat: 53.36, long: -2.382, ele: 35 [active: 2012-2013]	img/hourly-rain.png	24,24	0,-24
+53.36	-2.382	rostherne-no-2	ROSTHERNE NO 2 (57199) cheshire lat: 53.36, long: -2.382, ele: 35 [active: 2012-2017]	img/hourly-rain.png	24,24	0,-24
