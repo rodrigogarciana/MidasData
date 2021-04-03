@@ -34,8 +34,8 @@ function downloadMIDAS()
     user=ENV["CEDA_USER"];
     password=ENV["CEDA_PASSWORD"];
 
-    #user="rgarcia005"
-    #password="rodrigo1"
+    #user="orei"
+    #password="orei2021"
 
     ### General dataset structure information
 
