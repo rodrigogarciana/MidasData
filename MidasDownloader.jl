@@ -21,7 +21,7 @@ catch
     printstyled("\nError: Environment Variables CEDA_USER and CEDA_PASSWORD not set\n",bold=true,color=:red)
     println("Please set them in terminal with the command 'export CEDA_USER=*****' and 'export CEDA_PASSWORD=*****'")
     println("Alternatively plug in your user and password in the corresponding line of the function in this script.")
-    println("To get a CEDA username and password go to 'https://services.ceda.ac.uk/cedasite/register/info/'\n\n")
+    println("To get a free CEDA username and password go to 'https://services.ceda.ac.uk/cedasite/register/info/'\n\n")
     global okflag=false
 end
 
@@ -111,7 +111,6 @@ function downloadMIDAS()
                 push!(selections,parse(Int64,datasetIndex))
                 print("Download:  $(dirs[selections[end]]) [Navigation path: ")
                 for i in eachindex(selections) print(selections[i]); if i!=length(selections) print(",") else println("]") end end
-                pop!(selections)
                 print("Select a filename and path or leave it blank to keep the original name at the current path: ")
                 filename=readline();
                 println("\n$(repeat("-",40))\n")
@@ -126,6 +125,7 @@ function downloadMIDAS()
                     println("Download completed successfully\n")
                 end
                 nolist=true
+                pop!(selections)
 
         else
             println("Invalid selection, please select a valid option from the list")
