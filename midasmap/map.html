@@ -6,8 +6,8 @@
 
     dtypes = ["daily-rain", "daily-temperature", "daily-weather", "hourly-rain", "hourly-weather", "mean-wind", "radiation", "soil-temperature"];
     for (x of dtypes) {
-        var pois = new OpenLayers.Layer.Text(x, {location:"markers/markers_"+x+"_201908.txt", projection: map.displayProjection});
-        pois.setVisibility(true);
+        var pois = new OpenLayers.Layer.Text(x, {location:"./markers/markers_"+x+"_201908.txt", projection: map.displayProjection});
+        pois.setVisibility(false);
         map.addLayer(pois);
 
     }

@@ -25,6 +25,8 @@ catch
     global okflag=false
 end
 
+println("To view an interactive map of the location of the stations go to:")
+println("http://dap.ceda.ac.uk/badc/ukmo-midas-open/metadata/midasmap/map.html")
 
 
 #Structure of the tree https://help.ceda.ac.uk/article/4982-midas-open-user-guide
