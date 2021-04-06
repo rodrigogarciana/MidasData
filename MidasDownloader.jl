@@ -14,6 +14,7 @@ catch
     println("\nDone.\n")
 end
 
+if 1==2
 try
     ENV["CEDA_USER"];
     ENV["CEDA_PASSWORD"];
@@ -24,20 +25,23 @@ catch
     println("To get a free CEDA username and password go to 'https://services.ceda.ac.uk/cedasite/register/info/'\n\n")
     global okflag=false
 end
+end
 
-println("To view an interactive map of the location of the stations go to:")
+println("To view an interactive map of the location of the stations go to (Chrome, Incognito):")
 println("http://dap.ceda.ac.uk/badc/ukmo-midas-open/metadata/midasmap/map.html")
-
+println("\nTo search for specific information about stations go to:")
+println("https://archive.ceda.ac.uk/midas_stations/")
+println("\n")
 
 #Structure of the tree https://help.ceda.ac.uk/article/4982-midas-open-user-guide
 function downloadMIDAS()
     ### FTP server information
     ftp_server="ftp.ceda.ac.uk/badc/ukmo-midas-open/data"  # MetOffice Open Datasets
-    user=ENV["CEDA_USER"];
-    password=ENV["CEDA_PASSWORD"];
+    #user=ENV["CEDA_USER"];
+    #password=ENV["CEDA_PASSWORD"];
 
-    #user="orei"
-    #password="orei2021"
+    user="orei"
+    password="orei2021"
 
     ### General dataset structure information
 
