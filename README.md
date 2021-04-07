@@ -111,12 +111,12 @@ period,air_temperature,dewpoint
 3,6.7,4.7
 ```
 
-Period 1 corresponds to Jan-01, 00:00, and period 2 to Jan-01, 00:30.. and so on up to period 17520, (as the timestep was 30 minutes).
+Period 1 corresponds to Jan-01, 00:00, and period 2 to Jan-01, 00:15.. and so on up to period 35040, (as the time-step was 15 minutes).
 
 ## Interpolation methodology
 
-The script will create a list of required timepoints (in unix format) as requested by the user (with the timestep chosen), and those points will be compared to the times reported in the original Met Office file (under column "ob_time") in unix format.
+The script will create a list of required timepoints (in unix format) as requested by the user (with the time-step chosen), and those points will be compared to the times reported in the original Met Office file (under column "ob_time") in unix format.
 
-Once a property has been passed, the script will remove the "NA" points and the missing points. And do a linear interpolation of each property in the required points. If the required point falls exactly on an input_file time point, then the property will be brought back unmodified. If the point doesn't exist in the input_file, the script will find the 2 closest existing points and do a linear interpolation of the property.
+Once a property has been passed, the script will remove the "NA" points and the missing points. And do a linear interpolation of each property in the required points. If the required point falls exactly on an input_file time point, then the property will be brought back unmodified. If the point doesn't exist in the input_file, the script will find the 2 closest existing points in the original dataset and do a linear interpolation of the property.
 
-The interpolation process helps filling the required points which can happen if the timesteps are shorter than the original data or if the original data contains missing points.
+The interpolation process helps filling the required points which can happen if the time-steps are shorter than the original data or if the original data contains missing points.
