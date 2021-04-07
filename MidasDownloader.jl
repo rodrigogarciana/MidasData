@@ -14,7 +14,6 @@ catch
     println("\nDone.\n")
 end
 
-if 1==2
 try
     ENV["CEDA_USER"];
     ENV["CEDA_PASSWORD"];
@@ -25,7 +24,7 @@ catch
     println("To get a free CEDA username and password go to 'https://services.ceda.ac.uk/cedasite/register/info/'\n\n")
     global okflag=false
 end
-end
+
 
 println("To view an interactive map of the location of the stations go to (Chrome, Incognito):")
 println("http://dap.ceda.ac.uk/badc/ukmo-midas-open/metadata/midasmap/map.html")
