@@ -16,7 +16,7 @@ Install [Julia 1.5](https://julialang.org/downloads/), and then the script will 
 
 An account with CEDA is also required. To get a free CEDA username and password go to https://services.ceda.ac.uk/cedasite/register/info/
 
-Clone this respository:
+Finally, clone this respository:
 ```ShellSession
 $ git clone https://github.com/rodrigogarciana/MidasData.git
 ```
@@ -58,7 +58,7 @@ https://archive.ceda.ac.uk/midas_stations/
 
 c) To see a CSV file list with this information check the file stationList.csv in this repository.
 
-Please not that the different sites have different years of activity, please make sure that the site you are choosing has the data for the required year.
+Please note that different sites have different years of activity, please make sure that the site you are choosing has the data for the required year.
 
 ```ShellSession
 Desired sites (by ID) separated by commas, (e.g. 9,253,367):
