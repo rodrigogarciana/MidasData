@@ -13,6 +13,17 @@ catch
     println("\nDone.\n")
 end
 
+try
+    ENV["CEDA_USER"];
+    ENV["CEDA_PASSWORD"];
+catch
+    printstyled("\nError: Environment Variables CEDA_USER and CEDA_PASSWORD not set\n",bold=true,color=:red)
+    println("Please set them in terminal with the command 'export CEDA_USER=*****' and 'export CEDA_PASSWORD=*****'")
+    println("Alternatively plug in your user and password in the corresponding line of the function in this script.")
+    println("To get a free CEDA username and password go to 'https://services.ceda.ac.uk/cedasite/register/info/'\n\n")
+end
+
+
 println("To view an interactive map of the location of the stations go to (Chrome, Incognito):")
 println("http://dap.ceda.ac.uk/badc/ukmo-midas-open/metadata/midasmap/map.html")
 println("\nTo search for specific information about stations go to:")
@@ -209,8 +220,12 @@ end
 
 
 ftp_server="ftp.ceda.ac.uk/badc/ukmo-midas-open/data"  # MetOffice Open Datasets
-user="orei"
-password="orei2021"
+user=ENV(CEDA_USER)
+password=ENV(CEDA_PASSWORD)
+
+#user="orei"
+#password="orei2021"
+
 
 ftp=FTP(hostname=ftp_server,username=user,password=password)
 startingDir=pwd(ftp);
