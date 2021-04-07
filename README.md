@@ -25,7 +25,7 @@ $ git clone https://github.com/rodrigogarciana/MidasData.git
 
 Open the terminal and set your environment variables.
 ```ShellSession
-$ export CEDA_USERNAME=your_ceda_username
+$ export CEDA_USER=your_ceda_username
 $ export CEDA_PASSWORD=your_ceda_password
 ```
 Execute Julia with the name of the desired script
@@ -40,7 +40,7 @@ Navigate in the tree and download the desired files.
 
 Open the terminal and set your environment variables.
 ```ShellSession
-$ export CEDA_USERNAME=your_ceda_username
+$ export CEDA_USER=your_ceda_username
 $ export CEDA_PASSWORD=your_ceda_password
 ```
 Execute Julia with the name of the desired script
