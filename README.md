@@ -16,7 +16,7 @@ Install [Julia 1.x](https://julialang.org/downloads/), and then the script will 
 
 An account with CEDA is also required. To get a free CEDA username and password go to https://services.ceda.ac.uk/cedasite/register/info/
 
-Finally, clone this respository:
+Finally, clone or download this respository:
 ```ShellSession
 $ git clone https://github.com/rodrigogarciana/MidasData.git
 ```
