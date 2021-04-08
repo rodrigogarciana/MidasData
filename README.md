@@ -60,6 +60,8 @@ julia> include("MidasDownloader.jl")
 ## Running the Data extractor script
 
 Open the terminal and set your environment variables.
+(If the environment variables can't be easily set then set them inside julia) [read previous script description].
+
 ```ShellSession
 $ export CEDA_USER=your_ceda_username
 $ export CEDA_PASSWORD=your_ceda_password
@@ -69,8 +71,7 @@ Execute Julia with the name of the desired script
 $ julia MidasDataExtractor.jl
 ```
 
-(If the environment variables can't be easily set then set them inside julia) [read previous script description].
-
+Steps:
 
 1) First, the script will ask for the ID of the sites where the information is needed. There are 3 options in knowing what are the site ids corresponding to different sites:
 
@@ -125,7 +126,7 @@ That's it!
 
 ## Output file contents
 
-The output files will be in the CSV format, with the first column corresponding to the consecutive period of the year starting from 1 (Jan-01, 00:00) and each consecutive period will increase the time according to the desired timestep.
+The output files will be in the CSV format, with the first column corresponding to the consecutive period of the year starting from 1 (Jan-01, 00:00) and each consecutive period will increase the time according to the desired time-step. The period will start from 1, with a corresponding hour of the year starting from 0, and a timestamp plus all the requested properties in consecutive columns.
 
 Output example (first rows):
 ```
