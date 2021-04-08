@@ -12,7 +12,7 @@ The file MidasDataExtractor.jl helps to automate the process of data extraction 
 
 ## Prerequisites
 
-Install [Julia 1.5](https://julialang.org/downloads/), and then the script will automatically request the package [FTPClient](https://github.com/invenia/FTPClient.jl) if not already installed.
+Install [Julia 1.x](https://julialang.org/downloads/), and then the script will automatically request the package [FTPClient](https://github.com/invenia/FTPClient.jl) if not already installed.
 
 An account with CEDA is also required. To get a free CEDA username and password go to https://services.ceda.ac.uk/cedasite/register/info/
 
@@ -35,6 +35,27 @@ $ julia MidasDownloader.jl
 
 Navigate in the tree and download the desired files.
 
+Setting environment variables is a straightforward process in Linux and macOS, not so much in Windows. As an alternative, start julia in the folder where the script is located or navigate to this folder.
+
+```ShellSession
+cd ~/path_to_folder/MidasData/
+```
+
+```ShellSession
+julia
+               _
+   _       _ _(_)_     |  Documentation: https://docs.julialang.org
+  (_)     | (_) (_)    |
+   _ _   _| |_  __ _   |  Type "?" for help, "]?" for Pkg help.
+  | | | | | | |/ _` |  |
+  | | |_| | | | (_| |  |  Version 1.x.x (xxxx-xx-xx)
+ _/ |\__'_|_|_|\__'_|  |  Official https://julialang.org/ release
+|__/                   |
+
+julia> ENV["CEDA_USER"]="your_ceda_username"
+julia> ENV["CEDA_PASSWORD"]="your_ceda_password"
+julia> include("MidasDownloader.jl")
+```
 
 ## Running the Data extractor script
 
@@ -48,9 +69,12 @@ Execute Julia with the name of the desired script
 $ julia MidasDataExtractor.jl
 ```
 
+(If the environment variables can't be easily set then set them inside julia) [read previous script description].
+
+
 1) First, the script will ask for the ID of the sites where the information is needed. There are 3 options in knowing what are the site ids corresponding to different sites:
 
-a) To view an interactive map of the location of the stations go to (Chrome, Incognito).
+a) To view an interactive map of the location of the stations go to (Chrome/Firefox, Incognito).
 http://dap.ceda.ac.uk/badc/ukmo-midas-open/metadata/midasmap/map.html
 
 b) To search for specific information about stations go to:
@@ -105,10 +129,10 @@ The output files will be in the CSV format, with the first column corresponding 
 
 Output example (first rows):
 ```
-period,air_temperature,dewpoint
-1,6.3,4.0
-2,6.5,4.35
-3,6.7,4.7
+period,hour,timestamp,air_temperature,dewpoint
+1,0.0,2015-01-01T00:00:00,6.3,4.0
+2,0.5,2015-01-01T00:15:00,6.5,4.35
+3,1.0,2015-01-01T00:30:00,6.7,4.7
 ```
 
 Period 1 corresponds to Jan-01, 00:00, and period 2 to Jan-01, 00:15.. and so on up to period 35040, (as the time-step was 15 minutes).
