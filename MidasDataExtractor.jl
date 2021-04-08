@@ -100,7 +100,7 @@ function extractDataMidas(file::String,properties::Array{String,1},year::Int64;t
 
             if start==0
                 propertyOutput[i]=propertyDataN[stop]
-            elseif stop>=length(propertyTimeUnix) || stop==start
+            elseif stop>length(propertyTimeUnix) || stop==start
                 propertyOutput[i]=propertyDataN[start]
             else
                 propertyOutput[i]=round(propertyDataN[start]-(propertyTimeUnix[start]-requiredPoints[i])/(propertyTimeUnix[start]-propertyTimeUnix[stop])*(propertyDataN[start]-propertyDataN[stop]),digits=3) #interpolation
@@ -112,12 +112,12 @@ function extractDataMidas(file::String,properties::Array{String,1},year::Int64;t
 
         end
     open(outputfile, "w") do k
-        write(k,"period") #header
+        write(k,"period,hour,timestamp") #header
         for p in eachindex(properties) write(k,",$(properties[p])") end
         write(k,"\n");
 
         for i in eachindex(requiredPoints)
-            write(k, "$i")
+            write(k, "$i,$((requiredPoints[i]-startingUnix)/3600.0),$(unix2datetime(requiredPoints[i]))")
             for p in eachindex(properties) write(k,",$(allProperties[p][i])")end
             write(k,"\n");
         end
@@ -180,6 +180,7 @@ function downloadFilesExtract(ftp,startingDir,sites,years,properties,dataset,ver
 
     downloadedFiles=String[];
     downloadedFilesSite=String[];
+    downloadedFilename=String[];
     downloadedFilesYear=Int64[];
 
     println("\n$(repeat("-",50))\n$(repeat(" ",5))Downloading source files\n$(repeat("-",50))\n\n")
@@ -192,6 +193,7 @@ function downloadFilesExtract(ftp,startingDir,sites,years,properties,dataset,ver
             fLLocal="$(pwd())/$source_directory/$(fileList[fNumber])"
             push!(downloadedFiles,fLLocal)
             push!(downloadedFilesSite,stationData[siteRow[y][s],colstname])
+            push!(downloadedFilename,stationData[siteRow[y][s],colstfilename])
             push!(downloadedFilesYear,years[y])
 
             command=`curl -u $user:$password ftp://ftp.ceda.ac.uk$fLRemote -o $fLLocal`
@@ -208,7 +210,7 @@ function downloadFilesExtract(ftp,startingDir,sites,years,properties,dataset,ver
     for f in eachindex(downloadedFiles)
         #global downloadedFilesYear, downloadedFilesSite, output_directory, timestep, properties
         print("Preparing data: $(downloadedFilesSite[f]), $(downloadedFilesYear[f])... ")
-        extractDataMidas(downloadedFiles[f],properties,downloadedFilesYear[f];timestep=timestep,outputfile="$(output_directory)/$(downloadedFilesYear[f])_$(downloadedFilesSite[f]).csv");
+        extractDataMidas(downloadedFiles[f],properties,downloadedFilesYear[f];timestep=timestep,outputfile="$(output_directory)/$(downloadedFilesYear[f])_$(downloadedFilename[f]).csv");
         println("done. ")
     end
     println("\nPreparation Process Complete, the processed files are stored in the directory $output_directory.")
